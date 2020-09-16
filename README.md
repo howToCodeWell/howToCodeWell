@@ -5,7 +5,7 @@
 
 
 ### 🎙️Latest YouTube Videos
-
+New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
 - [S3 EP78 From Database Administrator To Agile Delivery Lead - Chris Ginn Interview](https://www.youtube.com/watch?v=bcWVO88UAUE)
 - [S3 EP 77 How I'm upgrading A CMS and API to Symfony 5 and PHP 8 - How To Code Well Podcast](https://www.youtube.com/watch?v=v0VYr10HKAQ)
@@ -17,6 +17,11 @@
 👉 [more videos...](https://youtube.com/howtocodewell)
 
 ### ▶️ Latest Live Coding Streams
+Live coding on [Twitch](https://howtocodewell.net/live) every:
+- Tuesday 07:00 BST
+- Thursday 21:00 BST
+- Sunday 14:30 BST
+Here are the latest vods
 
 <!-- YOUTUBE-HTCW-LIVE:START -->
 - [[Sylius, Symfony, Docker, PHP ] Working on a new e-commerce website which sells brownies!](https://www.youtube.com/watch?v=TU92FJ35eQU)
