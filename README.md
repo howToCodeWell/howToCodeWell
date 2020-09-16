@@ -14,6 +14,11 @@
 ### 📺 Latest Live Coding Streams
 
 <!-- YOUTUBE-HTCW-LIVE:START -->
+- [[Sylius, Symfony, Docker, PHP ] Working on a new e-commerce website which sells brownies!](https://www.youtube.com/watch?v=TU92FJ35eQU)
+- [[ Formik, React, Gatsby ] Building  a newsletter form, adding feature flags](https://www.youtube.com/watch?v=1nEBGtWoKGk)
+- [[ npm/  Node / Flow / JavaScript ] Working the HTCW API Client](https://www.youtube.com/watch?v=NMFvShfZ1DM)
+- [[ Regex, Python, PHP ] July Code Challenge Review](https://www.youtube.com/watch?v=RWRChcBA0gw)
+- [[ PHP / JavaScript ] Working on the External Course API - Phase 1 Beta of HTCW](https://www.youtube.com/watch?v=nqAUq0Du1L0)
 <!-- YOUTUBE-HTCW-LIVE:END -->
 
 ➡️ [more vods...](https://youtube.com/howtocodewelllive)
