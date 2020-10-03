@@ -24,11 +24,11 @@ Live coding on [Twitch](https://howtocodewell.net/live) every:
 Here are the latest vods
 
 <!-- YOUTUBE-HTCW-LIVE:START -->
+- [[ Tutorial Planning ] Developing the tutorials for the PHP CSV Console Course](https://www.youtube.com/watch?v=FqsabO1uzvQ)
 - [[Sylius, Bootstrap ] Adding a Sylius theme](https://www.youtube.com/watch?v=BTbtNLXSRGo)
 - [[ PHP / Symfony / CSV Commands ] Developing a CSV PHP Course](https://www.youtube.com/watch?v=ZxB0VukeYh8)
 - [[Sylius, Symfony, Docker, PHP ] Working on a new e-commerce website which sells brownies!](https://www.youtube.com/watch?v=TU92FJ35eQU)
 - [[ Formik, React, Gatsby ] Building  a newsletter form, adding feature flags](https://www.youtube.com/watch?v=1nEBGtWoKGk)
-- [[ npm/  Node / Flow / JavaScript ] Working the HTCW API Client](https://www.youtube.com/watch?v=NMFvShfZ1DM)
 <!-- YOUTUBE-HTCW-LIVE:END -->
 
 👉 [more vods...](https://youtube.com/howtocodewelllive)
