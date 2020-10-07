@@ -24,11 +24,11 @@ Live coding on [Twitch](https://howtocodewell.net/live) every:
 Here are the latest vods
 
 <!-- YOUTUBE-HTCW-LIVE:START -->
+- [[Python, PHP, AWS SDK, Serverless]  Working on a Lambda trigger in a headless Symfony CMS](https://www.youtube.com/watch?v=B1dFODsb6Eg)
+- [[TailwindCSS, Gatsby] Fixing mobile UI bugs. + Reading from The TDD Companion book](https://www.youtube.com/watch?v=0FKmz4mbj8s)
 - [[ Regex, Python, PHP ] July Code Challenge Review](https://www.youtube.com/watch?v=1I63xCFNjYY)
 - [[ Tutorial Planning ] Developing the tutorials for the PHP CSV Console Course](https://www.youtube.com/watch?v=FqsabO1uzvQ)
 - [[Sylius, Bootstrap ] Adding a Sylius theme](https://www.youtube.com/watch?v=BTbtNLXSRGo)
-- [[ PHP / Symfony / CSV Commands ] Developing a CSV PHP Course](https://www.youtube.com/watch?v=ZxB0VukeYh8)
-- [[Sylius, Symfony, Docker, PHP ] Working on a new e-commerce website which sells brownies!](https://www.youtube.com/watch?v=TU92FJ35eQU)
 <!-- YOUTUBE-HTCW-LIVE:END -->
 
 👉 [more vods...](https://youtube.com/howtocodewelllive)
