@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [EP 80 The things I learnt when upgrading to Symfony 5 - How To Code Well Podcast](https://www.youtube.com/watch?v=35DRtb4WM88)
 - [S3 EP 79 Deep Dive Into Agile With Chris Ginn - HTCW Podcast](https://www.youtube.com/watch?v=Rih21K8KBjI)
 - [S3 EP 78 From Database Administrator To Agile Delivery Lead - Chris Ginn Interview](https://www.youtube.com/watch?v=bcWVO88UAUE)
 - [S3 EP 77 How I'm upgrading A CMS and API to Symfony 5 and PHP 8 - How To Code Well Podcast](https://www.youtube.com/watch?v=v0VYr10HKAQ)
 - [18: How to fill PHP array keys - PHP 7 Tutorial](https://www.youtube.com/watch?v=zl4PyMI3av0)
-- [17: How to fill a PHP array - PHP 7 Tutorial](https://www.youtube.com/watch?v=HZCB4lbYEpM)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
