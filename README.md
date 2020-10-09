@@ -24,11 +24,11 @@ Live coding on [Twitch](https://howtocodewell.net/live) every:
 Here are the latest vods
 
 <!-- YOUTUBE-HTCW-LIVE:START -->
+- [[TailwindCSS, Gatsby] Adjustments to the HTCW Beta site](https://www.youtube.com/watch?v=tWR3PI8V4Hc)
 - [[Python, PHP, AWS SDK, Serverless]  Working on a Lambda trigger in a headless Symfony CMS](https://www.youtube.com/watch?v=B1dFODsb6Eg)
 - [[TailwindCSS, Gatsby] Fixing mobile UI bugs. + Reading from The TDD Companion book](https://www.youtube.com/watch?v=0FKmz4mbj8s)
 - [[ Regex, Python, PHP ] July Code Challenge Review](https://www.youtube.com/watch?v=1I63xCFNjYY)
 - [[ Tutorial Planning ] Developing the tutorials for the PHP CSV Console Course](https://www.youtube.com/watch?v=FqsabO1uzvQ)
-- [[Sylius, Bootstrap ] Adding a Sylius theme](https://www.youtube.com/watch?v=BTbtNLXSRGo)
 <!-- YOUTUBE-HTCW-LIVE:END -->
 
 👉 [more vods...](https://youtube.com/howtocodewelllive)
