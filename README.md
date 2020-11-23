@@ -24,11 +24,11 @@ Live coding on [Twitch](https://howtocodewell.net/live) every:
 Here are the latest vods
 
 <!-- YOUTUBE-HTCW-LIVE:START -->
+- [Feature Planning Beta Phase 2 of howtocodewell.net](https://www.youtube.com/watch?v=RaudpqSgS4I)
 - [[PHP // Gatsby] Working on phase 2 of HTCW](https://www.youtube.com/watch?v=uPRiFXf33kw)
 - [[Gatsby] Fixing SEO Bugs and work through Phase 2 of the HTCW site](https://www.youtube.com/watch?v=NFBD6mWdL_8)
 - [[PHP, Symfony, Gatsby ]  Upgrading PHP packages and fixing Beta bugs](https://www.youtube.com/watch?v=Ug_o_K4J-Jc)
 - [[Beta Testing]  Fixing UI issues with Tailwind and Gatsby JavaScript](https://www.youtube.com/watch?v=iAe6MqWS_3o)
-- [[Thursday Chill Stream  Refactoring Entity Managers + Unit tests // PHP // Symfony](https://www.youtube.com/watch?v=JKd8tJM8L-k)
 <!-- YOUTUBE-HTCW-LIVE:END -->
 
 👉 [more vods...](https://youtube.com/howtocodewelllive)
