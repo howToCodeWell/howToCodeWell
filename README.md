@@ -10,8 +10,8 @@ New videos every week.  Here are the latest:
 - [19:  Pop an element off the end of a PHP array](https://www.youtube.com/watch?v=LM0w_Syygss)
 - [EP 81 Hacktoberfest Headaches + Live Q&A - How To Code Well Podcast](https://www.youtube.com/watch?v=pWKX7u--IzA)
 - [EP 80 The things I learnt when upgrading to Symfony 5 - How To Code Well Podcast](https://www.youtube.com/watch?v=35DRtb4WM88)
-- [5 Reasons To Learn Pull Requests + Live Q&A - EP 82 How To Code Well Podcast](https://www.youtube.com/watch?v=OZiaJtJ3fG8)
 - [S3 EP 79 Deep Dive Into Agile With Chris Ginn - HTCW Podcast](https://www.youtube.com/watch?v=Rih21K8KBjI)
+- [S3 EP 78 From Database Administrator To Agile Delivery Lead - Chris Ginn Interview](https://www.youtube.com/watch?v=bcWVO88UAUE)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
