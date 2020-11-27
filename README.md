@@ -24,11 +24,11 @@ Live coding on [Twitch](https://howtocodewell.net/live) every:
 Here are the latest vods
 
 <!-- YOUTUBE-HTCW-LIVE:START -->
+- [Upgraded to Symfony 5 - Now playing around with Symfony Guard and oAuth - Fixing up the HTCW](https://www.youtube.com/watch?v=9AYNgrsrx-U)
 - [Fixing tests after upgrading to Symfony 5 and re writing part of the middleware](https://www.youtube.com/watch?v=phOaIwvh9Wk)
 - [Code Review  - Tic Tac Toe JavaScript Game](https://www.youtube.com/watch?v=9XopNg0TyZA)
 - [Feature Planning Beta Phase 2 of howtocodewell.net](https://www.youtube.com/watch?v=RaudpqSgS4I)
 - [[PHP // Gatsby] Working on phase 2 of HTCW](https://www.youtube.com/watch?v=uPRiFXf33kw)
-- [[Gatsby] Fixing SEO Bugs and work through Phase 2 of the HTCW site](https://www.youtube.com/watch?v=NFBD6mWdL_8)
 <!-- YOUTUBE-HTCW-LIVE:END -->
 
 👉 [more vods...](https://youtube.com/howtocodewelllive)
