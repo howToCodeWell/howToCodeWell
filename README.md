@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [EP 84 - Why Top 5 Programming Languages To Learn In 2021 Lists Are Stupid](https://www.youtube.com/watch?v=m00n9Q8nDg0)
 - [EP 83 - 5 Reasons To Learn Git Stash + Live Q&A - EP 83 How To Code Well Podcast](https://www.youtube.com/watch?v=eTlRZAA_XaA)
 - [21: How to calculate the product of a PHP array - PHP 7 Tutorial](https://www.youtube.com/watch?v=mhxEggY55e0)
 - [20: PHP Batch Processing with Array Chunk](https://www.youtube.com/watch?v=LSDmrLmVbZI)
 - [EP 82 - 5 Reasons To Learn Pull Requests + Live Q&A - EP 82 How To Code Well Podcast](https://www.youtube.com/watch?v=OZiaJtJ3fG8)
-- [19:  Pop an element off the end of a PHP array](https://www.youtube.com/watch?v=LM0w_Syygss)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
