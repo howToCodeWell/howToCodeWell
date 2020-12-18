@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [EP 85 - 5 Things I would learn in 2021 if I was a new software developer](https://www.youtube.com/watch?v=AaW71VYzPSg)
 - [22: How to get a random PHP array element - PHP 7 Tutorial](https://www.youtube.com/watch?v=6WPAl81rRFg)
 - [EP 84 - Why Top 5 Programming Languages To Learn In 2021 Lists Are Stupid](https://www.youtube.com/watch?v=m00n9Q8nDg0)
 - [EP 83 - 5 Reasons To Learn Git Stash + Live Q&A - EP 83 How To Code Well Podcast](https://www.youtube.com/watch?v=eTlRZAA_XaA)
 - [21: How to calculate the product of a PHP array - PHP 7 Tutorial](https://www.youtube.com/watch?v=mhxEggY55e0)
-- [20: PHP Batch Processing with Array Chunk](https://www.youtube.com/watch?v=LSDmrLmVbZI)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
