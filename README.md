@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
-- [EP 89 - Technical Regret](https://www.youtube.com/watch?v=zEKfHZidNR4)
 - [EP 87 - HTCW Tech Roadmap 2021](https://www.youtube.com/watch?v=fDbLHT9zs9w)
 - [EP 86 - Learn The MVC Software Pattern NOW](https://www.youtube.com/watch?v=AWorc7oHkrY)
 - [EP 85 - 5 Things I would learn in 2021 if I was a new software developer](https://www.youtube.com/watch?v=AaW71VYzPSg)
 - [22: How to get a random PHP array element - PHP 7 Tutorial](https://www.youtube.com/watch?v=6WPAl81rRFg)
+- [EP 84 - Why Top 5 Programming Languages To Learn In 2021 Lists Are Stupid](https://www.youtube.com/watch?v=m00n9Q8nDg0)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
