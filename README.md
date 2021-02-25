@@ -24,11 +24,11 @@ Live coding on [Twitch](https://howtocodewell.net/live) every:
 Here are the latest vods
 
 <!-- YOUTUBE-HTCW-LIVE:START -->
+- [Integrating Elastic Search Part 1 | Refactoring and Testing Symfony Schema Code](https://www.youtube.com/watch?v=kNLDtJcMN4w)
 - [[Cucumber JS] Acceptance testing Part 1](https://www.youtube.com/watch?v=91gPLe7ftRE)
 - [[Python, JavaScript, PHP] Upgrading Python Course // Adding JavaScript Tests to HTCW](https://www.youtube.com/watch?v=ZbWDBxMpkI8)
 - [Upgraded to Symfony 5 - Now playing around with Symfony Guard and oAuth - Fixing up the HTCW](https://www.youtube.com/watch?v=9AYNgrsrx-U)
 - [Fixing tests after upgrading to Symfony 5 and re writing part of the middleware](https://www.youtube.com/watch?v=phOaIwvh9Wk)
-- [Code Review  - Tic Tac Toe JavaScript Game](https://www.youtube.com/watch?v=9XopNg0TyZA)
 <!-- YOUTUBE-HTCW-LIVE:END -->
 
 👉 [more vods...](https://youtube.com/howtocodewelllive)
