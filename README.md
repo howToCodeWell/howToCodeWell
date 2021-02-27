@@ -24,11 +24,11 @@ Live coding on [Twitch](https://howtocodewell.net/live) every:
 Here are the latest vods
 
 <!-- YOUTUBE-HTCW-LIVE:START -->
+- [Gatsby JS -  Fixing howtocodewell.net tutorial descriptions](https://www.youtube.com/watch?v=U6lYoxf3Rk0)
 - [JavaScript Classes - Re structuring code using BottleJS](https://www.youtube.com/watch?v=H-mLVbVaGvE)
 - [Planning phase three of HTCW - Elastic Search - Redis](https://www.youtube.com/watch?v=S-X1uZ6YmQg)
 - [Integrating Elastic Search Part 1 | Refactoring and Testing Symfony Schema Code](https://www.youtube.com/watch?v=kNLDtJcMN4w)
 - [[Cucumber JS] Acceptance testing Part 1](https://www.youtube.com/watch?v=91gPLe7ftRE)
-- [[Python, JavaScript, PHP] Upgrading Python Course // Adding JavaScript Tests to HTCW](https://www.youtube.com/watch?v=ZbWDBxMpkI8)
 <!-- YOUTUBE-HTCW-LIVE:END -->
 
 👉 [more vods...](https://youtube.com/howtocodewelllive)
