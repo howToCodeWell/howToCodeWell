@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
-- [EP 91 - The Flutter Effect](https://www.youtube.com/watch?v=mxB-lU4ViJg)
 - [EP 89 - Technical Regret](https://www.youtube.com/watch?v=zEKfHZidNR4)
 - [EP 88 - API Testing](https://www.youtube.com/watch?v=VSaIhzu13p0)
 - [EP 87 - HTCW Tech Roadmap 2021](https://www.youtube.com/watch?v=fDbLHT9zs9w)
 - [EP 86 - Learn The MVC Software Pattern NOW](https://www.youtube.com/watch?v=AWorc7oHkrY)
+- [EP 85 - 5 Things I would learn in 2021 if I was a new software developer](https://www.youtube.com/watch?v=AaW71VYzPSg)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
