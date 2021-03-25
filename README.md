@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [EP 95 - 5 Tools Every PHP Developer Should Know](https://www.youtube.com/watch?v=Vlvt6drJgl0)
 - [EP 93 - 5 Reasons To Test Your Code](https://www.youtube.com/watch?v=Wis_C9pGlFU)
 - [EP 92 - 10 Web Server Security Tips](https://www.youtube.com/watch?v=EcpZgJuOfBY)
 - [EP 91 - The Flutter Effect](https://www.youtube.com/watch?v=QhBvzed1KCw)
 - [EP 89 - Minimum Requirements](https://www.youtube.com/watch?v=NNRYJpxAZwM)
-- [EP 89 - Technical Regret](https://www.youtube.com/watch?v=zEKfHZidNR4)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
