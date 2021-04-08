@@ -7,7 +7,7 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
-- [EP 96 - 10 Technical Interview Tips](https://www.youtube.com/watch?v=16HbuVwkg1g)
+- [EP 95 - Not all code is equal](https://www.youtube.com/watch?v=etQPQjKsAq0)
 - [EP 94 - 5 Tools Every PHP Developer Should Know](https://www.youtube.com/watch?v=Vlvt6drJgl0)
 - [EP 93 - 5 Reasons To Test Your Code](https://www.youtube.com/watch?v=Wis_C9pGlFU)
 - [EP 92 - 10 Web Server Security Tips](https://www.youtube.com/watch?v=EcpZgJuOfBY)
