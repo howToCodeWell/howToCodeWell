@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
-- [S4 EP97 Should Devs Use CRAPPY hardware? - How To Code Well Podcast](https://www.youtube.com/watch?v=7tVI-RA9ozY)
 - [Working on HTCW Stripe, Symfony, MySQL](https://www.youtube.com/watch?v=sH8yhlAcXZU)
 - [EP 96 - 10 Technical Interview Tips](https://www.youtube.com/watch?v=16HbuVwkg1g)
 - [EP 95 - Not all code is equal](https://www.youtube.com/watch?v=etQPQjKsAq0)
 - [EP 94 - 5 Tools Every PHP Developer Should Know](https://www.youtube.com/watch?v=Vlvt6drJgl0)
+- [EP 93 - 5 Reasons To Test Your Code](https://www.youtube.com/watch?v=Wis_C9pGlFU)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
