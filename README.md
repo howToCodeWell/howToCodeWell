@@ -9,7 +9,7 @@ New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
 - [PHP/JavaScript/CSS - Learning How to Build a Stripe Checkout Page For HTCW Part 2](https://www.youtube.com/watch?v=IfOl6j0wqEE)
 - [PHP/JavaScript/CSS - Learning How to Build a Stripe Checkout Page For HTCW](https://www.youtube.com/watch?v=UxkUVrF9FCQ)
-- [S4 EP97 Should Devs Use CRAPPY hardware? - How To Code Well Podcast](https://www.youtube.com/watch?v=7tVI-RA9ozY)
+- [S4 EP 97 Should Devs Use CRAPPY hardware? - How To Code Well Podcast](https://www.youtube.com/watch?v=7tVI-RA9ozY)
 - [Working on HTCW Stripe, Symfony, MySQL](https://www.youtube.com/watch?v=sH8yhlAcXZU)
 - [EP 96 - 10 Technical Interview Tips](https://www.youtube.com/watch?v=16HbuVwkg1g)
 <!-- YOUTUBE-HTCW:END -->
