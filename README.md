@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [3: HTCW Site Build | PHP testing (Part 1)](https://www.youtube.com/watch?v=ASUPOHv-wW8)
 - [3: HTCW Site Build | PHP testing (Part 2)](https://www.youtube.com/watch?v=V5MBq4XNRZ8)
 - [S4 EP 98 Apple Spring 2021 Event For Web Developers](https://www.youtube.com/watch?v=dcI9SzADoHw)
 - [PHP/JavaScript/CSS - Learning How to Build a Stripe Checkout Page For HTCW Part 2](https://www.youtube.com/watch?v=IfOl6j0wqEE)
 - [PHP/JavaScript/CSS - Learning How to Build a Stripe Checkout Page For HTCW](https://www.youtube.com/watch?v=UxkUVrF9FCQ)
-- [S4 EP 97 Should Devs Use CRAPPY hardware? - How To Code Well Podcast](https://www.youtube.com/watch?v=7tVI-RA9ozY)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
