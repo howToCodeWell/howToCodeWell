@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [5: HTCW Site Build | Stripe refactoring and testing](https://www.youtube.com/watch?v=zkBlXzvMNTA)
 - [4: HTCW Site Build | Stripe checkout pages (part 1)](https://www.youtube.com/watch?v=eRj5whxXH5Q)
 - [S4 EP 99 Where Do I Put My Algorithm? - How To Code Well Podcast](https://www.youtube.com/watch?v=oSa-YpVDmVI)
 - [3: HTCW Site Build | PHP testing (Part 3)](https://www.youtube.com/watch?v=gF2rUnLV8yU)
 - [3: HTCW Site Build | PHP testing (Part 1)](https://www.youtube.com/watch?v=ASUPOHv-wW8)
-- [3: HTCW Site Build | PHP testing (Part 2)](https://www.youtube.com/watch?v=V5MBq4XNRZ8)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
