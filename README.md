@@ -8,10 +8,10 @@
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
 - [10 Best Resources For Web Developers - How To Code Well Podcast S4 EP 100](https://www.youtube.com/watch?v=vd8TjBEjF_k)
-- [8: PHP Developing Stripe Payment Processor | howtocodewell.net](https://www.youtube.com/watch?v=KAwCKj3hUfg)
 - [7: howtocodewell.net | Developing Stripe Payment Processor](https://www.youtube.com/watch?v=OrnPTr0cysY)
 - [6: howtocodewell.net | Developing Stripe Payment Processor (part 1)](https://www.youtube.com/watch?v=JcMY-Vy9AG4)
 - [5: howtocodewell.net Site Build | Stripe refactoring and testing](https://www.youtube.com/watch?v=zkBlXzvMNTA)
+- [4: howtocodewell.net Site Build | Stripe checkout pages (part 1)](https://www.youtube.com/watch?v=eRj5whxXH5Q)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
