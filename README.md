@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [What is the gitingore file? #shorts](https://www.youtube.com/watch?v=HIFADsfhr4Q)
 - [10: PHP Developing Stripe Payment Processor | howtocodewell.net](https://www.youtube.com/watch?v=qA0PlI3UP3g)
 - [8: PHP Developing Stripe Payment Processor | howtocodewell.net](https://www.youtube.com/watch?v=KAwCKj3hUfg)
 - [9: PHP Developing Stripe Payment Processor | howtocodewell.net](https://www.youtube.com/watch?v=b3E5qtQ2u0k)
 - [10 Best Resources For Web Developers - How To Code Well Podcast S4 EP 100](https://www.youtube.com/watch?v=vd8TjBEjF_k)
-- [7: howtocodewell.net | Developing Stripe Payment Processor](https://www.youtube.com/watch?v=OrnPTr0cysY)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
