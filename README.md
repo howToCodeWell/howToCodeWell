@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
-- [14: PHP  testing console commands](https://www.youtube.com/watch?v=e3eQ_LpHBQI)
 - [Software Frameworks vs Libraries - How To Code Well Podcast - EP 101](https://www.youtube.com/watch?v=jlFYcDHNImk)
 - [12: PHP Testing Stripe WebHooks | howtocodewell.net](https://www.youtube.com/watch?v=yK7aqzOgJsk)
 - [11: PHP Testing Stripe WebHooks | howtocodewell.net](https://www.youtube.com/watch?v=i2CSUR229v8)
 - [What is the gitingore file? #shorts](https://www.youtube.com/watch?v=HIFADsfhr4Q)
+- [10: PHP Developing Stripe Payment Processor | howtocodewell.net](https://www.youtube.com/watch?v=qA0PlI3UP3g)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
