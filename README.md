@@ -8,10 +8,10 @@
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
 - [EP 106 - Learning PHP - Watch this! - 100 Days of PHP - How To Code Well Podcast](https://www.youtube.com/watch?v=n_KEz-Uqqqg)
+- [EP 106 - Learning PHP - Watch this! - 100 Days of PHP - How To Code Well Podcast](https://www.youtube.com/watch?v=k1bZObYgZKI)
 - [14: CSS | JavaScript - Fixing UI Bugs](https://www.youtube.com/watch?v=MqGaA59U0cQ)
 - [EP 105 - Service Unavailable - How To Code Well Podcast](https://www.youtube.com/watch?v=DxETKr1c3s0)
 - [EP 104 - Don't Repeat Yourself - How To Code Well Podcast](https://www.youtube.com/watch?v=vGtYBkNT0ho)
-- [Upgrading to PHP 8 - EP 103 How To Code Well Podcast](https://www.youtube.com/watch?v=qaGNr6uHH5M)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
