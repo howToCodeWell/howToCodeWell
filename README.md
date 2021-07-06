@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [17: PHP | YAML | CSS - Adding more courses and bug hunting](https://www.youtube.com/watch?v=fmX6ma3KD0g)
 - [EP 108 -  Live Q&A Docker, Linux, Rumble and more - How To Code Well Podcast](https://www.youtube.com/watch?v=2SurYIWihfg)
 - [16: Struggling with PHP dates](https://www.youtube.com/watch?v=zZRQlq9FiIo)
 - [EP 107 - 26 Tips For Jr. Web Developers - How To Code Well Podcast](https://www.youtube.com/watch?v=hpqQ8U822FA)
 - [15: PHP | Twig | Git - Working on the code notes](https://www.youtube.com/watch?v=fQhtrjPfvSQ)
-- [EP 106 - Learning PHP - Watch this! - 100 Days of PHP - How To Code Well Podcast](https://www.youtube.com/watch?v=k1bZObYgZKI)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
