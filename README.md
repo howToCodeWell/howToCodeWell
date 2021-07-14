@@ -8,10 +8,10 @@
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
 - [18:  CSS - Bug hunting with Tailwind](https://www.youtube.com/watch?v=GEbvcP5DEVo)
-- [18:  CSS - Bug hunting with Tailwind](https://www.youtube.com/watch?v=yx5X5rbK0G8)
 - [EP 109 -  My 15 Minute Bug Fixing Rule - How To Code Well Podcast](https://www.youtube.com/watch?v=9umaZwcz42M)
 - [17: PHP | YAML | CSS - Adding more courses and bug hunting](https://www.youtube.com/watch?v=fmX6ma3KD0g)
 - [EP 108 -  Live Q&A Docker, Linux, Rumble and more - How To Code Well Podcast](https://www.youtube.com/watch?v=2SurYIWihfg)
+- [16: Struggling with PHP dates](https://www.youtube.com/watch?v=zZRQlq9FiIo)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
