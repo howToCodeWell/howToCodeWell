@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [20: JavaScript | Working on K6 and login forms](https://www.youtube.com/watch?v=Zs-MJK6EX3c)
 - [EP 111 - Load Testing With K6 - How To Code Well Podcast](https://www.youtube.com/watch?v=f03fhvcMdaU)
 - [19: Installing K6 for website load testing](https://www.youtube.com/watch?v=GxEn5hFX5nE)
 - [EP 110 - Software sells the hardware. What if Microsoft ... - How To Code Well Podcast](https://www.youtube.com/watch?v=30VbL0PxX2k)
 - [18:  CSS - Bug hunting with Tailwind](https://www.youtube.com/watch?v=GEbvcP5DEVo)
-- [EP 109 -  My 15 Minute Bug Fixing Rule - How To Code Well Podcast](https://www.youtube.com/watch?v=9umaZwcz42M)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
