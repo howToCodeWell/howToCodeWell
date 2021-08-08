@@ -24,11 +24,11 @@ Live coding on [Twitch](https://howtocodewell.net/live) every:
 Here are the latest vods
 
 <!-- YOUTUBE-HTCW-LIVE:START -->
+- [Refactoring and unit testing PHP Stripe Code](https://www.youtube.com/watch?v=ZftYc6R0A3s)
 - [PHP/Symfony - Working on Stripe Payment for HTCW](https://www.youtube.com/watch?v=vtxYjI7P8lE)
 - [Gatsby JS -  Fixing howtocodewell.net tutorial descriptions](https://www.youtube.com/watch?v=U6lYoxf3Rk0)
 - [JavaScript Classes - Re structuring code using BottleJS](https://www.youtube.com/watch?v=H-mLVbVaGvE)
 - [Planning phase three of HTCW - Elastic Search - Redis](https://www.youtube.com/watch?v=S-X1uZ6YmQg)
-- [Integrating Elastic Search Part 1 | Refactoring and Testing Symfony Schema Code](https://www.youtube.com/watch?v=kNLDtJcMN4w)
 <!-- YOUTUBE-HTCW-LIVE:END -->
 
 👉 [more vods...](https://youtube.com/howtocodewelllive)
