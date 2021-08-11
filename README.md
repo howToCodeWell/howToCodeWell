@@ -24,11 +24,11 @@ Live coding on [Twitch](https://howtocodewell.net/live) every:
 Here are the latest vods
 
 <!-- YOUTUBE-HTCW-LIVE:START -->
+- [PHP Sessions and Symfony](https://www.youtube.com/watch?v=V_ltFMBQFwk)
 - [How many easter eggs have you eaten? - Developing Data fixtures for the billing section](https://www.youtube.com/watch?v=Fw4qUCpuLFg)
 - [MySQL, PHP, Symfony Data fixtures.](https://www.youtube.com/watch?v=oqn8yJvOD1k)
 - [Refactoring and unit testing PHP Stripe Code](https://www.youtube.com/watch?v=ZftYc6R0A3s)
 - [PHP/Symfony - Working on Stripe Payment for HTCW](https://www.youtube.com/watch?v=vtxYjI7P8lE)
-- [Gatsby JS -  Fixing howtocodewell.net tutorial descriptions](https://www.youtube.com/watch?v=U6lYoxf3Rk0)
 <!-- YOUTUBE-HTCW-LIVE:END -->
 
 👉 [more vods...](https://youtube.com/howtocodewelllive)
