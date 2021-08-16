@@ -24,11 +24,11 @@ Live coding on [Twitch](https://howtocodewell.net/live) every:
 Here are the latest vods
 
 <!-- YOUTUBE-HTCW-LIVE:START -->
+- [Testing a Symfony Event Listener](https://www.youtube.com/watch?v=_ZlnQ3YUL_8)
 - [PHP Sessions and Symfony](https://www.youtube.com/watch?v=MCXcQ6dIw1s)
 - [Playing with Stripe Webhooks in PHP](https://www.youtube.com/watch?v=zIeqnODdPEk)
 - [PHP/Symfony/Doctrine -  Building the subscription entities](https://www.youtube.com/watch?v=y6MH3VCZg20)
 - [PHP Sessions and Symfony](https://www.youtube.com/watch?v=V_ltFMBQFwk)
-- [How many easter eggs have you eaten? - Developing Data fixtures for the billing section](https://www.youtube.com/watch?v=Fw4qUCpuLFg)
 <!-- YOUTUBE-HTCW-LIVE:END -->
 
 👉 [more vods...](https://youtube.com/howtocodewelllive)
