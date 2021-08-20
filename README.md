@@ -24,11 +24,11 @@ Live coding on [Twitch](https://howtocodewell.net/live) every:
 Here are the latest vods
 
 <!-- YOUTUBE-HTCW-LIVE:START -->
+- [[PHP/Symfony] Fixing register form](https://www.youtube.com/watch?v=QIH1vkudyf8)
 - [[PHP/Symfony] Course Enrolment + Testing](https://www.youtube.com/watch?v=BRz-930s1uM)
 - [Reviewing the January Code Challenges](https://www.youtube.com/watch?v=OKyUTWcPvg4)
 - [[PHP] Bug Hunting](https://www.youtube.com/watch?v=rW6YexFEkx8)
 - [Testing a Symfony Event Listener](https://www.youtube.com/watch?v=_ZlnQ3YUL_8)
-- [PHP Sessions and Symfony](https://www.youtube.com/watch?v=MCXcQ6dIw1s)
 <!-- YOUTUBE-HTCW-LIVE:END -->
 
 👉 [more vods...](https://youtube.com/howtocodewelllive)
