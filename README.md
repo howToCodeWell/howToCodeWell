@@ -24,11 +24,11 @@ Live coding on [Twitch](https://howtocodewell.net/live) every:
 Here are the latest vods
 
 <!-- YOUTUBE-HTCW-LIVE:START -->
+- [PHP Sessions and Symfony](https://www.youtube.com/watch?v=bdMNQfTAmzY)
 - [PHP/Symfony - Working on Stripe Payment for HTCW](https://www.youtube.com/watch?v=j2oeAt8HpUQ)
 - [Can I complete 4 GitHub issues??? [Symfony/ PHP/ JavaScript]](https://www.youtube.com/watch?v=y3VG0aGKanA)
 - [[PHP/Symfony] Fixing register form](https://www.youtube.com/watch?v=QIH1vkudyf8)
 - [[PHP/Symfony] Course Enrolment + Testing](https://www.youtube.com/watch?v=BRz-930s1uM)
-- [Reviewing the January Code Challenges](https://www.youtube.com/watch?v=OKyUTWcPvg4)
 <!-- YOUTUBE-HTCW-LIVE:END -->
 
 👉 [more vods...](https://youtube.com/howtocodewelllive)
