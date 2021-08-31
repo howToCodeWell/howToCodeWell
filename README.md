@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [JavaScript end to end testing with Cypress](https://www.youtube.com/watch?v=-Hcdzm562BU)
 - [EP115 - What does Production Ready mean? - How To Code Well Podcast](https://www.youtube.com/watch?v=3oGcV5QND14)
 - [EP114 - Apple to save the children - How To Code Well Podcast](https://www.youtube.com/watch?v=Nf-GtNbcS2g)
 - [PHP Live Stream - Sylius menus](https://www.youtube.com/watch?v=4EtQyxoakb0)
 - [EP 113 - What would I do if I wasn't a Web Developer](https://www.youtube.com/watch?v=w8szemdgLNU)
-- [EP 112 - Why is jQuery so popular in 2021? - How To Code #podcast](https://www.youtube.com/watch?v=2ld3oiQqrMc)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
