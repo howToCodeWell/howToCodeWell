@@ -24,11 +24,11 @@ Live coding on [Twitch](https://howtocodewell.net/live) every:
 Here are the latest vods
 
 <!-- YOUTUBE-HTCW-LIVE:START -->
+- [Installing K6 for performance/load testing](https://www.youtube.com/watch?v=ycQcR6fdOqw)
 - [CSS work - Altering course page | Tailwind CSS](https://www.youtube.com/watch?v=k2rWFQj75vg)
 - [Quick stream.  It's far too sunny to be inside coding!](https://www.youtube.com/watch?v=Q0F7Ack9teA)
 - [Can I complete 4 GitHub issues??? [Symfony/ PHP/ JavaScript]](https://www.youtube.com/watch?v=ddx5KJGJNm0)
 - [Planning the open source course notes](https://www.youtube.com/watch?v=d6DKaSZuhf4)
-- [16 GitHub issues to fix/develop/test.  Can I do it??](https://www.youtube.com/watch?v=eDIaV7bKP7w)
 <!-- YOUTUBE-HTCW-LIVE:END -->
 
 👉 [more vods...](https://youtube.com/howtocodewelllive)
