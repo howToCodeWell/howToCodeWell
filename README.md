@@ -24,11 +24,11 @@ Live coding on [Twitch](https://howtocodewell.net/live) every:
 Here are the latest vods
 
 <!-- YOUTUBE-HTCW-LIVE:START -->
+- [JS Cypress.io - Can I Fix These 6 E2E bugs](https://www.youtube.com/watch?v=go-KQIr3Zf8)
 - [16 GitHub issues to fix/develop/test.  Can I do it??](https://www.youtube.com/watch?v=9RH4TNlQqlo)
 - [CSS bug hunting and fixing](https://www.youtube.com/watch?v=tgkbfq5YNqA)
 - [More CSS fixes | Tailwind | Webpack](https://www.youtube.com/watch?v=T-8HPMoZCfI)
 - [Installing K6 for performance/load testing](https://www.youtube.com/watch?v=ycQcR6fdOqw)
-- [CSS work - Altering course page | Tailwind CSS](https://www.youtube.com/watch?v=k2rWFQj75vg)
 <!-- YOUTUBE-HTCW-LIVE:END -->
 
 👉 [more vods...](https://youtube.com/howtocodewelllive)
