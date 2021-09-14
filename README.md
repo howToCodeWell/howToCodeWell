@@ -24,11 +24,11 @@ Live coding on [Twitch](https://howtocodewell.net/live) every:
 Here are the latest vods
 
 <!-- YOUTUBE-HTCW-LIVE:START -->
+- [JS Cypress.io - Can I Fix These 6 E2E bugs](https://www.youtube.com/watch?v=HStfHCtRzhY)
 - [Building a PHP (Symfony) Test Server for GitHub API - OPEN SOURCE](https://www.youtube.com/watch?v=ANiQLWYlavw)
 - [PHP CLI One Liners + PHP OOP Challenge](https://www.youtube.com/watch?v=OyHXZ07QjIQ)
 - [Reviewing November 2019 JavaScript Coding Challenges!](https://www.youtube.com/watch?v=2Yplne9AwL0)
 - [JS Cypress.io - Can I Fix These 6 E2E bugs](https://www.youtube.com/watch?v=go-KQIr3Zf8)
-- [16 GitHub issues to fix/develop/test.  Can I do it??](https://www.youtube.com/watch?v=9RH4TNlQqlo)
 <!-- YOUTUBE-HTCW-LIVE:END -->
 
 👉 [more vods...](https://youtube.com/howtocodewelllive)
