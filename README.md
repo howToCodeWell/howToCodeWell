@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [EP117 - Get ready for Symfony 6 - How To Code Well Podcast](https://www.youtube.com/watch?v=9DzVq-yY_Eg)
 - [EP116 - What is a software development environment? - How To Code Well Podcast](https://www.youtube.com/watch?v=eEChOR13AzU)
 - [JavaScript end to end testing with Cypress](https://www.youtube.com/watch?v=-Hcdzm562BU)
 - [EP115 - What does Production Ready mean? - How To Code Well Podcast](https://www.youtube.com/watch?v=3oGcV5QND14)
 - [EP114 - Apple to save the children - How To Code Well Podcast](https://www.youtube.com/watch?v=Nf-GtNbcS2g)
-- [PHP Live Stream - Sylius menus](https://www.youtube.com/watch?v=4EtQyxoakb0)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
