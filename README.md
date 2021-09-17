@@ -24,11 +24,11 @@ Live coding on [Twitch](https://howtocodewell.net/live) every:
 Here are the latest vods
 
 <!-- YOUTUBE-HTCW-LIVE:START -->
+- [Database testing setup with Symfony](https://www.youtube.com/watch?v=VjeV8Aic1WA)
 - [Playing with PHP + Parsedown and Prism JS](https://www.youtube.com/watch?v=rtUR458gvLI)
 - [[Symfony] Hooking up Postman to work with the Test Server API](https://www.youtube.com/watch?v=Tin6M9INKWQ)
 - [JS Cypress.io - Can I Fix These 6 E2E bugs](https://www.youtube.com/watch?v=HStfHCtRzhY)
 - [Building a PHP (Symfony) Test Server for GitHub API - OPEN SOURCE](https://www.youtube.com/watch?v=ANiQLWYlavw)
-- [PHP CLI One Liners + PHP OOP Challenge](https://www.youtube.com/watch?v=OyHXZ07QjIQ)
 <!-- YOUTUBE-HTCW-LIVE:END -->
 
 👉 [more vods...](https://youtube.com/howtocodewelllive)
