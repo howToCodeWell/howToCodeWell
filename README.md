@@ -24,11 +24,11 @@ Live coding on [Twitch](https://howtocodewell.net/live) every:
 Here are the latest vods
 
 <!-- YOUTUBE-HTCW-LIVE:START -->
+- [[Course Notes] PHP + MySQL Insert](https://www.youtube.com/watch?v=Neircjkt4qY)
 - [Trying to write 5 course notes for Linux Bash For Beginners](https://www.youtube.com/watch?v=XtNS-2DdmeU)
 - [Building a PHP (Symfony) Test Server for GitHub API - OPEN SOURCE](https://www.youtube.com/watch?v=wwFA5xbfJjU)
 - [Database testing setup with Symfony](https://www.youtube.com/watch?v=GhfWn3v-BjI)
 - [Database testing setup with Symfony](https://www.youtube.com/watch?v=VjeV8Aic1WA)
-- [Playing with PHP + Parsedown and Prism JS](https://www.youtube.com/watch?v=rtUR458gvLI)
 <!-- YOUTUBE-HTCW-LIVE:END -->
 
 👉 [more vods...](https://youtube.com/howtocodewelllive)
