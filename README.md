@@ -24,11 +24,11 @@ Live coding on [Twitch](https://howtocodewell.net/live) every:
 Here are the latest vods
 
 <!-- YOUTUBE-HTCW-LIVE:START -->
+- [[Code Challenge] Reviewing you JavaScript advent calendars + PHP Jan challenge](https://www.youtube.com/watch?v=RVoquTDm6OA)
 - [[PHP JavaScript] Code Notes + JavaScript GA testing + PHP Test + Circle CI testing](https://www.youtube.com/watch?v=sp_d-mmklAA)
 - [[PHP JavaScript] Code Notes + JavaScript GA testing + PHP Test + Circle CI testing](https://www.youtube.com/watch?v=DozkziT1Aj4)
 - [[Course Notes] PHP + MySQL Insert](https://www.youtube.com/watch?v=Neircjkt4qY)
 - [Trying to write 5 course notes for Linux Bash For Beginners](https://www.youtube.com/watch?v=XtNS-2DdmeU)
-- [Building a PHP (Symfony) Test Server for GitHub API - OPEN SOURCE](https://www.youtube.com/watch?v=wwFA5xbfJjU)
 <!-- YOUTUBE-HTCW-LIVE:END -->
 
 👉 [more vods...](https://youtube.com/howtocodewelllive)
