@@ -24,11 +24,11 @@ Live coding on [Twitch](https://howtocodewell.net/live) every:
 Here are the latest vods
 
 <!-- YOUTUBE-HTCW-LIVE:START -->
+- [Quick stream.  It's far too sunny to be inside coding!](https://www.youtube.com/watch?v=ravNWdhDuXA)
 - [Writing Course Notes: Bash | PHP | HTML](https://www.youtube.com/watch?v=I_WdOCSkEZE)
 - [[Symfony] Hooking up Postman to work with the Test Server API](https://www.youtube.com/watch?v=ZH4-ZmwI9U4)
 - [Reviewing December Code Challenges](https://www.youtube.com/watch?v=OFWujGKux-4)
 - [Reviewing the January Code Challenges](https://www.youtube.com/watch?v=pQJoNmu5CEQ)
-- [[Code Challenge] Reviewing you JavaScript advent calendars + PHP Jan challenge](https://www.youtube.com/watch?v=P-5-9cbsN0I)
 <!-- YOUTUBE-HTCW-LIVE:END -->
 
 👉 [more vods...](https://youtube.com/howtocodewelllive)
