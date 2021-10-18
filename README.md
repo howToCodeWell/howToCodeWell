@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [Spaceship operator in PHP - Compare two variables quickly](https://www.youtube.com/watch?v=CG7gFZk78ok)
 - [EP 119 - 10 Git branching good practice tips - How To Code Well Podcast](https://www.youtube.com/watch?v=7hmrw4OokPo)
 - [PHP | Docker | Symfony - Working on the podcast website](https://www.youtube.com/watch?v=WSBjdNMekNo)
 - [EP 118 - Why you NEED a side project! - How To Code Well Podcast](https://www.youtube.com/watch?v=0wDoLRfqKNI)
 - [22: PHP | Tests | Doctrine  -  Building a subscription site - Breaking and fixing tests](https://www.youtube.com/watch?v=zBLvLeRPoX0)
-- [21: PHP | Docker -  General site maintenance](https://www.youtube.com/watch?v=ecHdP2gRy-o)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
