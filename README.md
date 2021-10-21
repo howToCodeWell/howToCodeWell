@@ -7,7 +7,7 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
-- [EP 120 - How To Code Well Podcast](https://www.youtube.com/watch?v=PMjF9O6ep5Y)
+- [EP 120 - Unleash the Apple M1 beast](https://www.youtube.com/watch?v=PMjF9O6ep5Y)
 - [Fixing CSS bugs and planning new courses](https://www.youtube.com/watch?v=qr2TCDrCMH8)
 - [Spaceship operator in PHP - Compare two variables quickly](https://www.youtube.com/watch?v=CG7gFZk78ok)
 - [EP 119 - 10 Git branching good practice tips - How To Code Well Podcast](https://www.youtube.com/watch?v=7hmrw4OokPo)
