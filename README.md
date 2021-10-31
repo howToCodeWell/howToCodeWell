@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [Math.sign in JavaScript - Compare two variables](https://www.youtube.com/watch?v=7IlBxrNIzlI)
 - [EP 121 - New home, new code](https://www.youtube.com/watch?v=idZBm4yElJU)
 - [Course Planning: PHP Sessions Part 1](https://www.youtube.com/watch?v=nQ7YEidcvck)
 - [Null coalescing operator in PHP - Simplified  ternary statements](https://www.youtube.com/watch?v=XpzCtuiHBX0)
 - [EP 120 - Unleash the Apple M1 beast](https://www.youtube.com/watch?v=PMjF9O6ep5Y)
-- [Fixing CSS bugs and planning new courses](https://www.youtube.com/watch?v=qr2TCDrCMH8)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
