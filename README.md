@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [EP 122 - Should GitHub be the new PHP bug tracker?](https://www.youtube.com/watch?v=s6RZG6Z6Ij8)
 - [PHP 8 Constructor Property Promotion](https://www.youtube.com/watch?v=l2WnKKNqPYU)
 - [Math.sign in JavaScript - Compare two variables](https://www.youtube.com/watch?v=7IlBxrNIzlI)
 - [EP 121 - New home, new code](https://www.youtube.com/watch?v=idZBm4yElJU)
 - [Course Planning: PHP Sessions Part 1](https://www.youtube.com/watch?v=nQ7YEidcvck)
-- [Null coalescing operator in PHP - Simplified  ternary statements](https://www.youtube.com/watch?v=XpzCtuiHBX0)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
