@@ -24,10 +24,10 @@ Live coding on [Twitch](https://howtocodewell.net/live) every:
 Here are the latest vods
 
 <!-- YOUTUBE-HTCW-LIVE:START -->
-- [JavaScript | End to end testing with Cypress (part 2)](https://www.youtube.com/watch?v=9RlJRCPTQxc)
-- [JavaScript | End to end testing with Cypress (part 1)](https://www.youtube.com/watch?v=4cuB6VbCiDE)
+- [JavaScript | End to end testing with Cypress &lpar;part 2&rpar;](https://www.youtube.com/watch?v=9RlJRCPTQxc)
+- [JavaScript | End to end testing with Cypress &lpar;part 1&rpar;](https://www.youtube.com/watch?v=4cuB6VbCiDE)
 - [Website maintenance day - Composer / NPM upgrades / GitHub project planning and testing](https://www.youtube.com/watch?v=7NE9iGuoimA)
-- [Quick stream.  It's far too sunny to be inside coding!](https://www.youtube.com/watch?v=ravNWdhDuXA)
+- [Quick stream.  It&#39;s far too sunny to be inside coding!](https://www.youtube.com/watch?v=ravNWdhDuXA)
 - [Writing Course Notes: Bash | PHP | HTML](https://www.youtube.com/watch?v=I_WdOCSkEZE)
 <!-- YOUTUBE-HTCW-LIVE:END -->
 
