@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [PHP 8 Union data types](https://www.youtube.com/watch?v=ArlGWrza7a0)
 - [EP 135 - Web 3 is coming.  Get ready - How To Code Well Podcast](https://www.youtube.com/watch?v=S-LJ2vZu66c)
 - [Course Planning: PHP Sessions Part 2](https://www.youtube.com/watch?v=i_9WPWbXXSs)
 - [PHP 8 Named Arguments](https://www.youtube.com/watch?v=hQZxTRDrPLc)
 - [EP 137 - How To Code Well Podcast](https://www.youtube.com/watch?v=z5i6PUh-U7s)
-- [EP 136 - How To Code Well Podcast](https://www.youtube.com/watch?v=C2N3mdL1OGY)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
