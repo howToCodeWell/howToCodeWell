@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [EP 137 - Hello PHP 8.1 - How To Code Well Podcast](https://www.youtube.com/watch?v=z5i6PUh-U7s)
 - [Adding CSS to the PHP login course](https://www.youtube.com/watch?v=vDtOP6DEIfo)
 - [PHP 8 Nullsafe operator - Safely allow nulls to be returned in PHP method calls](https://www.youtube.com/watch?v=U295c-KgMqY)
 - [EP 136 - Breaking Changes in PHP - How To Code Well Podcast](https://www.youtube.com/watch?v=C2N3mdL1OGY)
 - [PHPstan + PHPUnit Course prep](https://www.youtube.com/watch?v=GEmlJV_pSuU)
-- [PHP 8 Union data types](https://www.youtube.com/watch?v=ArlGWrza7a0)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
