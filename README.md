@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
-- [Working on documentation for a PHP course](https://www.youtube.com/watch?v=8lTsyiJYbRk)
 - [EP 138 - Coder Mindset](https://www.youtube.com/watch?v=GPDvLauwY_o)
 - [Hack to test if PHP is working](https://www.youtube.com/watch?v=C64mj33rnIA)
 - [EP 137 - Hello PHP 8.1 - How To Code Well Podcast](https://www.youtube.com/watch?v=z5i6PUh-U7s)
 - [Adding CSS to the PHP login course](https://www.youtube.com/watch?v=vDtOP6DEIfo)
+- [PHP 8 Nullsafe operator - Safely allow nulls to be returned in PHP method calls](https://www.youtube.com/watch?v=U295c-KgMqY)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
