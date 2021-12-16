@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
-- [Working on documentation for a PHP course](https://www.youtube.com/watch?v=g2VxjPfieJ8)
-- [Working on documentation for a PHP course](https://www.youtube.com/watch?v=8lTsyiJYbRk)
-- [EP 138 - Coder Mindset](https://www.youtube.com/watch?v=GPDvLauwY_o)
-- [Hack to test if PHP is working](https://www.youtube.com/watch?v=C64mj33rnIA)
-- [EP 137 - Hello PHP 8.1 - How To Code Well Podcast](https://www.youtube.com/watch?v=z5i6PUh-U7s)
+- [EP 146 - How To Code Well Podcast](https://www.youtube.com/watch?v=s5joYZul-EM)
+- [EP 145 - How To Code Well Podcast](https://www.youtube.com/watch?v=lifW1NOcHBo)
+- [EP 144 - How To Code Well Podcast](https://www.youtube.com/watch?v=0pB0F0bQRbU)
+- [EP 143 - How To Code Well Podcast](https://www.youtube.com/watch?v=t8w9utYu_-o)
+- [EP 142 - How To Code Well Podcast](https://www.youtube.com/watch?v=BGc56ZvR2Eg)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
