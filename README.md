@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [EP 141 - Web Developer Guide For 2022 - How To Code Well Podcast](https://www.youtube.com/watch?v=kZfWlzXFowU)
 - [PHP - Working on course documentation](https://www.youtube.com/watch?v=2siTWFtecyk)
 - [EP140 Code iteration time is critical to web development success - How To Code Well Podcast](https://www.youtube.com/watch?v=4vlDv6qbDRo)
 - [EP 146 - How To Code Well Podcast](https://www.youtube.com/watch?v=s5joYZul-EM)
 - [EP 145 - How To Code Well Podcast](https://www.youtube.com/watch?v=lifW1NOcHBo)
-- [EP 144 - How To Code Well Podcast](https://www.youtube.com/watch?v=0pB0F0bQRbU)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
