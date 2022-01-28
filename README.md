@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [EP 145 - 5 things you should not do in Software Development - How To Code Well Podcast](https://www.youtube.com/watch?v=lifW1NOcHBo)
 - [JavaScript / GatsbyJS- Working on my personal site](https://www.youtube.com/watch?v=jDNuiuBZRMM)
 - [EP 144 - 5 Build tools every Software Developer needs to learn - How To Code Well Podcast](https://www.youtube.com/watch?v=0pB0F0bQRbU)
 - [PHP - Working on WINDOWS course documentation - Part 1](https://www.youtube.com/watch?v=RMLmNbSWLqY)
 - [EP 143 - 6 ways to improve your code tests - How To Code Well Podcast](https://www.youtube.com/watch?v=t8w9utYu_-o)
-- [Course notes - Docker For Beginners](https://www.youtube.com/watch?v=eoqxfewUTac)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
