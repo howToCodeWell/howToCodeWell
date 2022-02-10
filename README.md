@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
-- [EP147 - How to fix a bug - How To Code Well Podcast](https://www.youtube.com/watch?v=LnqXBv8d20Q)
 - [PHPUnit + Xdebug - Debug some code with me LIVE](https://www.youtube.com/watch?v=SJVvBnzeBY4)
 - [EP 146 - What makes an acceptable bug ticket - How To Code Well Podcast](https://www.youtube.com/watch?v=s5joYZul-EM)
 - [PHP - Working on WINDOWS course documentation - Part 2](https://www.youtube.com/watch?v=MiDu295m_4k)
 - [EP 145 - 5 things you should not do in Software Development - How To Code Well Podcast](https://www.youtube.com/watch?v=lifW1NOcHBo)
+- [JavaScript / GatsbyJS- Working on my personal site](https://www.youtube.com/watch?v=jDNuiuBZRMM)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
