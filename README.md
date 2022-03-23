@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [PHP - Working on WINDOWS course documentation - Part 6](https://www.youtube.com/watch?v=cgf9qM-xZRg)
 - [EP150 -  What is Syntax - How To Code Well Podcast](https://www.youtube.com/watch?v=WbBocQoWZ1s)
 - [PHP - Working on WINDOWS course documentation - Part 4](https://www.youtube.com/watch?v=moscCKvCojA)
 - [EP149 - Sugar that syntax - How To Code Well Podcast](https://www.youtube.com/watch?v=GuF20ZaayPE)
 - [PHP - Working on WINDOWS course documentation - Part 3](https://www.youtube.com/watch?v=F32H88owqUA)
-- [EP148 - The best bug tracking tools - How To Code Well Podcast](https://www.youtube.com/watch?v=ZfB7Kwo2vAA)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
