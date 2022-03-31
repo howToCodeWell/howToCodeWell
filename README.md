@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
-- [EP152 -  Testing The How To Code Well Platform](https://www.youtube.com/watch?v=k4mAuZGGTjg)
 - [PHP - Working on WINDOWS course documentation - Part 7](https://www.youtube.com/watch?v=hmkEzr5T0A8)
 - [EP151 -  What is a Syntax Error - How To Code Well Podcast](https://www.youtube.com/watch?v=5ROon6ue-fI)
 - [PHP - Working on WINDOWS course documentation - Part 6](https://www.youtube.com/watch?v=cgf9qM-xZRg)
 - [EP150 -  What is Syntax - How To Code Well Podcast](https://www.youtube.com/watch?v=WbBocQoWZ1s)
+- [PHP - Working on WINDOWS course documentation - Part 4](https://www.youtube.com/watch?v=moscCKvCojA)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
