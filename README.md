@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
-- [Building PHP + MySQL Registration Course - Part 1](https://www.youtube.com/watch?v=VvK_q31nA7Y)
 - [EP153 -  Self Hosted Vs Cloud Services - How To Code Well Podcast](https://www.youtube.com/watch?v=bQjhXwESrkY)
 - [PHP - Working on WINDOWS course documentation - Part 8](https://www.youtube.com/watch?v=etXoug9p4T0)
 - [EP152 -  Testing The How To Code Well Platform](https://www.youtube.com/watch?v=k4mAuZGGTjg)
 - [PHP - Working on WINDOWS course documentation - Part 7](https://www.youtube.com/watch?v=hmkEzr5T0A8)
+- [EP151 -  What is a Syntax Error - How To Code Well Podcast](https://www.youtube.com/watch?v=5ROon6ue-fI)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
