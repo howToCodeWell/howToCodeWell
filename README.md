@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [EP 154 - 10 Tips for Continual Integration](https://www.youtube.com/watch?v=Z5kFJgRQl_8)
+- [EP 155 -  Monorepo experiment](https://www.youtube.com/watch?v=QNaP9Hz1WZQ)
 - [Building PHP + MySQL Registration Course - Part 2](https://www.youtube.com/watch?v=uGFcyLRIESA)
 - [Building PHP + MySQL Registration Course - Part 1](https://www.youtube.com/watch?v=VvK_q31nA7Y)
 - [EP153 -  Self Hosted Vs Cloud Services - How To Code Well Podcast](https://www.youtube.com/watch?v=bQjhXwESrkY)
-- [PHP - Working on WINDOWS course documentation - Part 8](https://www.youtube.com/watch?v=etXoug9p4T0)
-- [EP152 -  Testing The How To Code Well Platform](https://www.youtube.com/watch?v=k4mAuZGGTjg)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
