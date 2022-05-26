@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
-- [EP158 -  5 Software Development Misconceptions - How To Code Well Podcast](https://www.youtube.com/watch?v=Tfv98-BVzXQ)
 - [Building PHP + MySQL Registration Course - Part 5](https://www.youtube.com/watch?v=8t0Jlfcm58Y)
 - [Building PHP + MySQL Registration Course - Part 4](https://www.youtube.com/watch?v=3ews9seXoQg)
 - [Building PHP + MySQL Registration Course - Part 3](https://www.youtube.com/watch?v=zxFPkkwdj88)
 - [EP 154 - 10 Tips for Continual Integration](https://www.youtube.com/watch?v=Z5kFJgRQl_8)
+- [EP 155 -  Monorepo experiment](https://www.youtube.com/watch?v=QNaP9Hz1WZQ)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
