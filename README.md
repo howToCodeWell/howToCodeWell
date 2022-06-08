@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [156 - You don&#39;t have to test your code all the time - #podcast #webdevelopment](https://www.youtube.com/watch?v=Lp_K9xFIEOA)
 - [Building PHP + MySQL Registration Course - Part 6](https://www.youtube.com/watch?v=3_mtEeiCi7w)
 - [EP158 -  5 Software Development Misconceptions - How To Code Well Podcast](https://www.youtube.com/watch?v=Tfv98-BVzXQ)
 - [Building PHP + MySQL Registration Course - Part 5](https://www.youtube.com/watch?v=8t0Jlfcm58Y)
 - [Building PHP + MySQL Registration Course - Part 4](https://www.youtube.com/watch?v=3ews9seXoQg)
-- [Building PHP + MySQL Registration Course - Part 3](https://www.youtube.com/watch?v=zxFPkkwdj88)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
