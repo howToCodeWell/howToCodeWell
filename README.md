@@ -7,7 +7,7 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
-- [Building PHP + MySQL Registration Course - Part 7 - Debugging PHP](https://www.youtube.com/watch?v=j7TDSWlHxmU)
+- [Building PHP + MySQL Registration Course - Part 7 - Debugging PHP #php #xdebug #mysql](https://www.youtube.com/watch?v=j7TDSWlHxmU)
 - [160 - PHP Version Stats #podcast #webdevelopment #php](https://www.youtube.com/watch?v=9bltIVJZUgE)
 - [159 - Moving into the Deployment phase #podcast  #webdevelopment](https://www.youtube.com/watch?v=sScMjv8G0bo)
 - [158 -  5 Software Dev myths #podcast  #webdevelopment](https://www.youtube.com/watch?v=2GUdmpebLxw)
