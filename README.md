@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [PHP - Creating Symfony Commands](https://www.youtube.com/watch?v=dnox06-Jn0k)
 - [PHP 8 Mixed Data Types](https://www.youtube.com/watch?v=z39aKyfFi7s)
 - [Building a React Panel Component Part 2 - LIVE](https://www.youtube.com/watch?v=oLJAUMCLN3U)
 - [Building a React Panel Component Part 1 - LIVE](https://www.youtube.com/watch?v=hIVqTZTXHwo)
 - [Fixing PHP Tests for AWS S3 Object Storage - LIVE](https://www.youtube.com/watch?v=eYSzjRlYXdE)
-- [Building PHP + MySQL Registration Course - Part 9 - Router #php #xdebug #mysql](https://www.youtube.com/watch?v=ZiOLdVNE9KA)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
