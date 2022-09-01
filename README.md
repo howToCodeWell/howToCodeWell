@@ -24,11 +24,11 @@ Live coding on [Twitch](https://howtocodewell.net/live) every:
 Here are the latest vods
 
 <!-- YOUTUBE-HTCW-LIVE:START -->
+- [Upgrading JavaScript packages](https://www.youtube.com/watch?v=LTFs-2uk_1w)
 - [PHP - Saving Symfony Sessions to MySQL Database](https://www.youtube.com/watch?v=vcPgI-lqqTk)
 - [JavaScript | End to end testing with Cypress &lpar;part 2&rpar;](https://www.youtube.com/watch?v=9RlJRCPTQxc)
 - [JavaScript | End to end testing with Cypress &lpar;part 1&rpar;](https://www.youtube.com/watch?v=4cuB6VbCiDE)
 - [Website maintenance day - Composer / NPM upgrades / GitHub project planning and testing](https://www.youtube.com/watch?v=7NE9iGuoimA)
-- [Quick stream.  It&#39;s far too sunny to be inside coding!](https://www.youtube.com/watch?v=ravNWdhDuXA)
 <!-- YOUTUBE-HTCW-LIVE:END -->
 
 👉 [more vods...](https://youtube.com/howtocodewelllive)
