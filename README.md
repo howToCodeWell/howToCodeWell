@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [161 - Did Google create a sentient being? #podcast #google #ai](https://www.youtube.com/watch?v=RqxaznBjz0c)
 - [Investigating Symfony deprecated warnings](https://www.youtube.com/watch?v=YwOEM5OC8J0)
 - [PHP - Creating Symfony Commands](https://www.youtube.com/watch?v=dnox06-Jn0k)
 - [PHP 8 Mixed Data Types](https://www.youtube.com/watch?v=z39aKyfFi7s)
 - [Building a React Panel Component Part 2 - LIVE](https://www.youtube.com/watch?v=oLJAUMCLN3U)
-- [Building a React Panel Component Part 1 - LIVE](https://www.youtube.com/watch?v=hIVqTZTXHwo)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
