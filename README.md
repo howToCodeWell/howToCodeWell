@@ -10,8 +10,8 @@ New videos every week.  Here are the latest:
 - [You&#39;re debugging JavaScript Wrong #shorts](https://www.youtube.com/watch?v=le1UvnCsKEE)
 - [162 - Why I&#39;m learning Typescript #podcast #webdevelopment #javascript](https://www.youtube.com/watch?v=aqW8MFSaLRg)
 - [Mocking API with JSON Server](https://www.youtube.com/watch?v=OznPvJIjMDc)
-- [Code Quiz 02 - JavaScript Questions #codequiz #frontend  #webdevelopment](https://www.youtube.com/watch?v=Tyvmq3gyZMY)
-- [Code Quiz 01 - HTML and PHP Questions #codequiz #html #php #webdevelopment](https://www.youtube.com/watch?v=Qmz0TvPLgpQ)
+- [Do you know these JavaScript questions?  #codequiz #frontend  #webdevelopment](https://www.youtube.com/watch?v=Tyvmq3gyZMY)
+- [Do you know these HTML and PHP questions?  #codequiz #html #php #webdevelopment](https://www.youtube.com/watch?v=Qmz0TvPLgpQ)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
