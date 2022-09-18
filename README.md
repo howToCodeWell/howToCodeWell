@@ -24,11 +24,11 @@ Live coding on [Twitch](https://howtocodewell.net/live) every:
 Here are the latest vods
 
 <!-- YOUTUBE-HTCW-LIVE:START -->
+- [Open Source \\ Creating Doctrine Fixtures](https://www.youtube.com/watch?v=4UZr-5u7zNQ)
 - [Open Source \\ Code Quiz Building the PHP API &lpar;1&rpar;](https://www.youtube.com/watch?v=v5X5RIivtOc)
 - [Upgrading JavaScript packages](https://www.youtube.com/watch?v=LTFs-2uk_1w)
 - [PHP - Saving Symfony Sessions to MySQL Database](https://www.youtube.com/watch?v=vcPgI-lqqTk)
 - [JavaScript | End to end testing with Cypress &lpar;part 2&rpar;](https://www.youtube.com/watch?v=9RlJRCPTQxc)
-- [JavaScript | End to end testing with Cypress &lpar;part 1&rpar;](https://www.youtube.com/watch?v=4cuB6VbCiDE)
 <!-- YOUTUBE-HTCW-LIVE:END -->
 
 👉 [more vods...](https://youtube.com/howtocodewelllive)
