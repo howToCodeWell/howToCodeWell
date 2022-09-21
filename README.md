@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [163 - Why 10x developers are not paid any more #podcast #webdevelopment](https://www.youtube.com/watch?v=fRyZ1Lg2EM0)
+- [Code Quiz API // Creating a GitHub Actions CI pipeline](https://www.youtube.com/watch?v=8X458ykaYEo)
 - [Do you know these CSS questions? #codequiz #webdevelopment #css](https://www.youtube.com/watch?v=POqqtVf6j34)
 - [You&#39;re debugging JavaScript Wrong #shorts](https://www.youtube.com/watch?v=le1UvnCsKEE)
 - [162 - Why I&#39;m learning Typescript #podcast #webdevelopment #javascript](https://www.youtube.com/watch?v=aqW8MFSaLRg)
-- [Mocking API with JSON Server](https://www.youtube.com/watch?v=OznPvJIjMDc)
-- [Do you know these JavaScript questions?  #codequiz #frontend  #webdevelopment](https://www.youtube.com/watch?v=Tyvmq3gyZMY)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
