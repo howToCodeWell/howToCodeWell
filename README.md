@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [166 - 5 ways to Speed up Cypress automation tests #podcast #webdevelopment #testing](https://www.youtube.com/watch?v=XDII5-A1nhY)
 - [165 Flaky Tests #webdevelopment #podcast #unittesting](https://www.youtube.com/watch?v=f_UfofStHfE)
 - [164 - My thoughts on Kubernetes after 3 months #podcast](https://www.youtube.com/watch?v=bLPTITnIZGs)
 - [Code Quiz API // Working on JavaScript API Client](https://www.youtube.com/watch?v=f24W7gzdBec)
 - [163 - Why 10x developers are not paid any more #podcast #webdevelopment](https://www.youtube.com/watch?v=fRyZ1Lg2EM0)
-- [Code Quiz API // Creating a GitHub Actions CI pipeline](https://www.youtube.com/watch?v=8X458ykaYEo)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
