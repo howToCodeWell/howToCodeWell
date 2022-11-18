@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [177  - Is WAMP, MAMP or LAMP enough to be a successfully web developer? #podcast](https://www.youtube.com/watch?v=NxzJKZLr_mg)
 - [175 - Should beginner programmers learn JavaScript, Python or PHP](https://www.youtube.com/watch?v=BTJibAoRKBs)
 - [174 - Advice for Web Development Team Leaders #podcast #webdevelopment](https://www.youtube.com/watch?v=daoEQQu4ApQ)
 - [173 - What does pre-production mean #podcast #devops](https://www.youtube.com/watch?v=4KJoKAnWxc8)
 - [172 - Will Web Development die in 10 years #webdevelopment #podcast](https://www.youtube.com/watch?v=008v49laiIc)
-- [171 - Full time vs contractor Web Developer. 5 Reasons to be a contractor #podcast #careerguidance](https://www.youtube.com/watch?v=gc-qhU4bgng)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
