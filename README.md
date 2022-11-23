@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [182 - Bringing down the walled garden](https://www.youtube.com/watch?v=jeyyjcyML64)
 - [181 - Elon Musk is not giving Web Developers enough time to fix Twitter](https://www.youtube.com/watch?v=j_0pW25KhDo)
 - [180 - Stop relying on other peoples code #podcast #webdevelopment](https://www.youtube.com/watch?v=w1WQhHgSJi0)
 - [179 - PHP has problems #podcast #php](https://www.youtube.com/watch?v=sGI_QRk-ppU)
 - [178 - Why you should learn static API&#39;s](https://www.youtube.com/watch?v=nK_ZX9PpoHE)
-- [177  - Is WAMP, MAMP or LAMP enough to be a successfully web developer? #podcast](https://www.youtube.com/watch?v=NxzJKZLr_mg)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
