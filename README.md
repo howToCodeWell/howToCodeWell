@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [Working on howtocodewell.net](https://www.youtube.com/watch?v=sV6q-3PDdCg)
 - [Working on HowToCodeWell.net](https://www.youtube.com/watch?v=9xlsqWGQhMA)
 - [Working on HowToCodeWell.net](https://www.youtube.com/watch?v=OgC9FZYNbmE)
 - [Working on HowToCodeWell.net](https://www.youtube.com/watch?v=C5tgMQ4rfZE)
 - [Working on HowToCodeWell.net](https://www.youtube.com/watch?v=2iGhRewcIjY)
-- [Working on HowToCodeWell.net](https://www.youtube.com/watch?v=QdSSZvu9uFU)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
