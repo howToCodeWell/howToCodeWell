@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
-- [Working on HowToCodeWell.net](https://www.youtube.com/watch?v=9xlsqWGQhMA)
-- [Working on HowToCodeWell.net](https://www.youtube.com/watch?v=OgC9FZYNbmE)
-- [Working on HowToCodeWell.net](https://www.youtube.com/watch?v=C5tgMQ4rfZE)
-- [Working on HowToCodeWell.net](https://www.youtube.com/watch?v=2iGhRewcIjY)
-- [Working on HowToCodeWell.net](https://www.youtube.com/watch?v=QdSSZvu9uFU)
+- [Working on course notes for howtocodewell.net](https://www.youtube.com/watch?v=xeJdDCdo2Iw)
+- [186 - Will ChatGPT be a better developer than you? #podcast #ai](https://www.youtube.com/watch?v=3rhQDNOCNyA)
+- [185 - Costly Clouds #podcast #webdevelopment #react](https://www.youtube.com/watch?v=A3zDLQcWxmc)
+- [184 - Get better code reviews #podcast #code #webdevelopment](https://www.youtube.com/watch?v=oqTUnrkvzmI)
+- [Fixing UI bugs on howtocodewell.net](https://www.youtube.com/watch?v=_9OjrEihxYM)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
