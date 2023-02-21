@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
-- [Working on a new PHP talk](https://www.youtube.com/watch?v=YHWA6mdMQUc)
 - [Working on course notes for howtocodewell.net](https://www.youtube.com/watch?v=bP_6FsFye8s)
 - [Working on course notes for howtocodewell.net](https://www.youtube.com/watch?v=xeJdDCdo2Iw)
 - [186 - Will ChatGPT be a better developer than you? #podcast #ai](https://www.youtube.com/watch?v=3rhQDNOCNyA)
 - [185 - Costly Clouds #podcast #webdevelopment #react](https://www.youtube.com/watch?v=A3zDLQcWxmc)
+- [184 - Get better code reviews #podcast #code #webdevelopment](https://www.youtube.com/watch?v=oqTUnrkvzmI)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
