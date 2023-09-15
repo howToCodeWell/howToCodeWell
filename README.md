@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [193 - What has happened to all that was promised #podcast #webdevelopment](https://www.youtube.com/watch?v=TVRagGefBaA)
 - [Developing Symfony database tests](https://www.youtube.com/watch?v=980thYv3VPg)
 - [187 - 2023 Web Development trends #podcast #webdevelopment #ai](https://www.youtube.com/watch?v=tCEIC_H7JCo)
 - [Messing about with Symfony form tests](https://www.youtube.com/watch?v=ipLx_N-okZM)
 - [Working on a new PHP talk - Make your PHPUnit tests smarter](https://www.youtube.com/watch?v=YHWA6mdMQUc)
-- [Working on course notes for howtocodewell.net](https://www.youtube.com/watch?v=bP_6FsFye8s)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
