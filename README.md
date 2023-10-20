@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [196 - Get WordPress off of PHP 7.4 #podcast #php #coding #wordpress](https://www.youtube.com/watch?v=7iAxyMd4uvU)
 - [195 - What&#39;s new in PHP 8.3 #podcast #coding #php #webdevelopment](https://www.youtube.com/watch?v=59JkLHx2Yq8)
 - [194 - Should you still use TypeScript #podcast #coding #javascript](https://www.youtube.com/watch?v=0D7pfQZdak4)
 - [193 - What has happened to all that was promised #podcast #webdevelopment](https://www.youtube.com/watch?v=TVRagGefBaA)
 - [Developing Symfony database tests](https://www.youtube.com/watch?v=980thYv3VPg)
-- [187 - 2023 Web Development trends #podcast #webdevelopment #ai](https://www.youtube.com/watch?v=tCEIC_H7JCo)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
