@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [STOP ARUGING in GitHub pull requests #coding #webdevelopment #programming](https://www.youtube.com/watch?v=KFNjfz7VH_g)
 - [198 - How to deploy WordPress with Docker #podcast #wordpress #php #docker](https://www.youtube.com/watch?v=QnHvpinFP6E)
 - [AI CANNOT do this in programming? #coding #programming #webdevelopment #ai](https://www.youtube.com/watch?v=O5Q7fRG4V9U)
 - [197 - This PHP plugin idea could make you money #podcast #php #coding #webdevelopment](https://www.youtube.com/watch?v=hQfjL45Jgg0)
 - [196 - Get WordPress off of PHP 7.4 #podcast #php #coding #wordpress](https://www.youtube.com/watch?v=7iAxyMd4uvU)
-- [195 - What&#39;s new in PHP 8.3 #podcast #coding #php #webdevelopment](https://www.youtube.com/watch?v=59JkLHx2Yq8)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
