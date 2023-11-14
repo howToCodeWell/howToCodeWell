@@ -7,7 +7,7 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
-- [STOP ARUGING in GitHub pull requests #coding #webdevelopment #programming](https://www.youtube.com/watch?v=KFNjfz7VH_g)
+- [STOP ARGUING in GitHub pull requests #coding #webdevelopment #programming](https://www.youtube.com/watch?v=KFNjfz7VH_g)
 - [198 - How to deploy WordPress with Docker #podcast #wordpress #php #docker](https://www.youtube.com/watch?v=QnHvpinFP6E)
 - [AI CANNOT do this in programming? #coding #programming #webdevelopment #ai](https://www.youtube.com/watch?v=O5Q7fRG4V9U)
 - [197 - This PHP plugin idea could make you money #podcast #php #coding #webdevelopment](https://www.youtube.com/watch?v=hQfjL45Jgg0)
