@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [Web Development career regret](https://www.youtube.com/watch?v=fdaxCSiHOYo)
 - [Can you become a Senior Developer when working on your own?](https://www.youtube.com/watch?v=JEDjj3gh-iU)
 - [How to learn WordPress Development](https://www.youtube.com/watch?v=7j9ORg0v7C8)
 - [5 Software Development Interview Questions #podcast #softwareengineer  #interview](https://www.youtube.com/watch?v=brm_TT4rnxg)
 - [When to use a micro framework #laravel #wordpress #coding #programming  #webdevelopment](https://www.youtube.com/watch?v=cF2VMA02msE)
-- [200 - Software Development Interview - Soft Skill Questions](https://www.youtube.com/watch?v=n38AJpC1-as)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
