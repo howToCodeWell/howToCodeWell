@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [PHP MYSQLi Beginners Course Intro](https://www.youtube.com/watch?v=vQGF_-47KtI)
 - [Side project self discipline #webdevelopment #careeradvice](https://www.youtube.com/watch?v=_9ZQwm2vSi8)
 - [HTCW Podcast #139 - Shopping carts are hard - How to code well Podcast](https://www.youtube.com/watch?v=SAyPrmhsAX4)
 - [Web Development career regret](https://www.youtube.com/watch?v=fdaxCSiHOYo)
 - [Can you become a Senior Developer when working on your own?](https://www.youtube.com/watch?v=JEDjj3gh-iU)
-- [How to learn WordPress Development](https://www.youtube.com/watch?v=7j9ORg0v7C8)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
