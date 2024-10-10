@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [PHP bad practices](https://www.youtube.com/watch?v=K54AvfLxKpc)
 - [Understanding the programming landscape](https://www.youtube.com/watch?v=V2szYqKh97k)
 - [Working on a JavaScript course](https://www.youtube.com/watch?v=CBiFmqu8Ncw)
 - [PHP MYSQLi Beginners Course Intro](https://www.youtube.com/watch?v=vQGF_-47KtI)
 - [Side project self discipline #webdevelopment #careeradvice](https://www.youtube.com/watch?v=_9ZQwm2vSi8)
-- [HTCW Podcast #139 - Shopping carts are hard - How to code well Podcast](https://www.youtube.com/watch?v=SAyPrmhsAX4)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
