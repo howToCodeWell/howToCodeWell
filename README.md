@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
-- [HTCW Podcast #204 - What is a database](https://www.youtube.com/watch?v=vHNjeyhlJVg)
 - [HTCW Podcast #201 - Software Developers CV Checklist](https://www.youtube.com/watch?v=e2nsbEUsQyc)
 - [PHP bad practices](https://www.youtube.com/watch?v=K54AvfLxKpc)
 - [Understanding the programming landscape](https://www.youtube.com/watch?v=V2szYqKh97k)
 - [Working on a JavaScript course](https://www.youtube.com/watch?v=CBiFmqu8Ncw)
+- [PHP MYSQLi Beginners Course Intro](https://www.youtube.com/watch?v=vQGF_-47KtI)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
