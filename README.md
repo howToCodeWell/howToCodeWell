@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [It doesn’t matter which PHP framework you learn. #php #webdevelopement](https://www.youtube.com/watch?v=SmgaDOPLOK4)
 - [Should you create a template for your Software Development CV. #cv #careeradvice](https://www.youtube.com/watch?v=mAgJmzCa3tU)
 - [Gain code confidence](https://www.youtube.com/watch?v=C-__JmAofbA)
 - [HTCW Podcast #201 - Software Developers CV Checklist](https://www.youtube.com/watch?v=e2nsbEUsQyc)
 - [PHP bad practices](https://www.youtube.com/watch?v=K54AvfLxKpc)
-- [Understanding the programming landscape](https://www.youtube.com/watch?v=V2szYqKh97k)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
