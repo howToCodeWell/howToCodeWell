@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [HTCW Podcast #205 - What is a DVCS](https://www.youtube.com/watch?v=KN135P7HYoE)
+- [Teaching PHP good and bad practices](https://www.youtube.com/watch?v=CEYakPgT6Fw)
 - [Laravel vs Django - Which framework will pay you more? 💰 #laraveltips #laravel](https://www.youtube.com/watch?v=7kz0lHxhJP4)
 - [It doesn’t matter which PHP framework you learn. #php #webdevelopement](https://www.youtube.com/watch?v=SmgaDOPLOK4)
 - [Should you create a template for your Software Development CV. #cv #careeradvice](https://www.youtube.com/watch?v=mAgJmzCa3tU)
-- [Gain code confidence](https://www.youtube.com/watch?v=C-__JmAofbA)
-- [HTCW Podcast #201 - Software Developers CV Checklist](https://www.youtube.com/watch?v=e2nsbEUsQyc)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
