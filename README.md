@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [Which Software development podcasts do I listen to?](https://www.youtube.com/watch?v=xYIBGrf0F18)
 - [Why is WordPress so popular?](https://www.youtube.com/watch?v=TMargd1lA0o)
 - [HTCW Podcast #206](https://www.youtube.com/watch?v=ojAHVtcUkks)
 - [HTCW Podcast #202 - What to ask in a Software Development interview](https://www.youtube.com/watch?v=7DedsX_-QSI)
 - [Learn PHP good practices](https://www.youtube.com/watch?v=eyB_bLgVKhc)
-- [Laravel vs Django - Which framework will pay you more? 💰 #laraveltips #laravel](https://www.youtube.com/watch?v=7kz0lHxhJP4)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
