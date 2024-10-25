@@ -7,7 +7,7 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
-- [When a junior developer doesn’t understand a senior developer’s code.](https://www.youtube.com/watch?v=io2Nan21pWc)
+- [Junior developers reading senior developers code. #coding](https://www.youtube.com/watch?v=1qPMLygF7eQ)
 - [HTCW Podcast #203 - Get a Software Development job using social media](https://www.youtube.com/watch?v=jMeQpyqLlpU)
 - [It’s always a good time to learn PHP](https://www.youtube.com/watch?v=le8pTkNCOkg)
 - [Which Software development podcasts do I listen to?](https://www.youtube.com/watch?v=xYIBGrf0F18)
