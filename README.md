@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [Build and deploy your first Laravel API](https://www.youtube.com/watch?v=mK13l4NiVU0)
 - [Junior Developers reading Senior Developers code. #coding](https://www.youtube.com/watch?v=1qPMLygF7eQ)
 - [HTCW Podcast #203 - Get a Software Development job using social media](https://www.youtube.com/watch?v=jMeQpyqLlpU)
 - [It’s always a good time to learn PHP](https://www.youtube.com/watch?v=le8pTkNCOkg)
 - [Which Software development podcasts do I listen to?](https://www.youtube.com/watch?v=xYIBGrf0F18)
-- [Why is WordPress so popular?](https://www.youtube.com/watch?v=TMargd1lA0o)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
