@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [Laravel SSH build script tutorial](https://www.youtube.com/watch?v=HNBolDtHaL0)
 - [When a Junior Developer gets their first bug. #code](https://www.youtube.com/watch?v=MfQUjqmC7EE)
 - [Build and deploy your first Laravel API](https://www.youtube.com/watch?v=mK13l4NiVU0)
 - [Junior Developers reading Senior Developers code. #coding](https://www.youtube.com/watch?v=1qPMLygF7eQ)
 - [HTCW Podcast #203 - Get a Software Development job using social media](https://www.youtube.com/watch?v=jMeQpyqLlpU)
-- [It’s always a good time to learn PHP](https://www.youtube.com/watch?v=le8pTkNCOkg)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
