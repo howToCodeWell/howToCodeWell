@@ -7,7 +7,7 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
-- [HTCW Podcast #204 - What is a database](https://www.youtube.com/watch?v=vHNjeyhlJVg)
+- [HTCW Podcast #204 - What&#39;s in your database?](https://www.youtube.com/watch?v=vHNjeyhlJVg)
 - [Laravel SSH build script tutorial](https://www.youtube.com/watch?v=HNBolDtHaL0)
 - [When a Junior Developer gets their first bug. #code](https://www.youtube.com/watch?v=MfQUjqmC7EE)
 - [Build and deploy your first Laravel API](https://www.youtube.com/watch?v=mK13l4NiVU0)
