@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
-- [HTCW Podcast #207 - PHP 8.4 and Symfony security advisories](https://www.youtube.com/watch?v=rk_d3VNe26E)
 - [HTCW Podcast #205 - Sort your source control](https://www.youtube.com/watch?v=KN135P7HYoE)
 - [Junior Dev - Your first standup](https://www.youtube.com/watch?v=lgM75ADs1bM)
 - [The Web Developers Wild West](https://www.youtube.com/watch?v=IZZEhtWBZDE)
 - [HTCW Podcast #204 - What&#39;s in your database?](https://www.youtube.com/watch?v=vHNjeyhlJVg)
+- [Laravel SSH build script tutorial](https://www.youtube.com/watch?v=HNBolDtHaL0)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
