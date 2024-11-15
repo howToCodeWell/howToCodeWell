@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [HTCW Podcast #206 - PHP Tutorials,  Mac Mini M4 concerns and Schemas](https://www.youtube.com/watch?v=ojAHVtcUkks)
 - [Build and deploy a Laravel API](https://www.youtube.com/watch?v=xWSoV-RiIRk)
 - [Web Dev explainer - What is a database](https://www.youtube.com/watch?v=n-ndJLkNLO4)
 - [HTCW Podcast #205 - Sort your source control](https://www.youtube.com/watch?v=KN135P7HYoE)
 - [Junior Dev - Your first standup](https://www.youtube.com/watch?v=lgM75ADs1bM)
-- [The Web Developers Wild West](https://www.youtube.com/watch?v=IZZEhtWBZDE)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
