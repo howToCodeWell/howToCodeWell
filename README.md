@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [Web Dev explainer - What is a database schema](https://www.youtube.com/watch?v=lBfNJS0T4Jo)
 - [How to deploy a Laravel API using CI/CD GitHub actions](https://www.youtube.com/watch?v=6mjv2tBK1jY)
 - [Junior developers shouldn’t rely on AI #juniordeveloper](https://www.youtube.com/watch?v=UDV_EFJ69U0)
 - [HTCW Podcast #206 - PHP Tutorials,  Mac Mini M4 concerns and Schemas](https://www.youtube.com/watch?v=ojAHVtcUkks)
 - [Build and deploy a Laravel API](https://www.youtube.com/watch?v=xWSoV-RiIRk)
-- [Web Dev explainer - What is a database](https://www.youtube.com/watch?v=n-ndJLkNLO4)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
