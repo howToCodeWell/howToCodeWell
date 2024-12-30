@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [Is the PHP contract market dead?](https://www.youtube.com/watch?v=gqWW1IhTEY0)
 - [HTCW Podcast #211 - Year review + Web Development in 2025](https://www.youtube.com/watch?v=jEiyrw1HGD8)
 - [HTCW Podcast #209 - 10 Reasons why every develop should know HTTP responses](https://www.youtube.com/watch?v=-S2Ebh4P3hs)
 - [HTCW Podcast #208 - What&#39;s going on with the PHP job market!](https://www.youtube.com/watch?v=kiYTeNYYO4s)
 - [Deploy WordPress and Laravel on a VPS #php](https://www.youtube.com/watch?v=B4yYyzVEwls)
-- [Web Dev explainer - What is a DVCS](https://www.youtube.com/watch?v=yNvb4EDz03I)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
