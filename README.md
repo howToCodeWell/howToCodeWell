@@ -10,8 +10,8 @@ New videos every week.  Here are the latest:
 - [HTCW Podcast #212](https://www.youtube.com/watch?v=viLmDRCq5nQ)
 - [Is the PHP contract market dead?](https://www.youtube.com/watch?v=gqWW1IhTEY0)
 - [HTCW Podcast #211 - Year review + Web Development in 2025](https://www.youtube.com/watch?v=jEiyrw1HGD8)
+- [HTCW Podcast #210 - Your first month learning Web Development](https://www.youtube.com/watch?v=tkmK4jE1Xe0)
 - [HTCW Podcast #209 - 10 Reasons why every develop should know HTTP responses](https://www.youtube.com/watch?v=-S2Ebh4P3hs)
-- [HTCW Podcast #208 - What&#39;s going on with the PHP job market!](https://www.youtube.com/watch?v=kiYTeNYYO4s)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
