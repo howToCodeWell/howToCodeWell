@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [How To Code Well year in review](https://www.youtube.com/watch?v=1w2wTPf3iF0)
 - [HTCW Podcast #213](https://www.youtube.com/watch?v=1bcdUVI2fyY)
 - [HTCW Podcast #212 - Symfony killer features](https://www.youtube.com/watch?v=viLmDRCq5nQ)
 - [5 Web Development predictions for 2025](https://www.youtube.com/watch?v=Gcr_wvQAI_A)
 - [Is the PHP contract market dead?](https://www.youtube.com/watch?v=gqWW1IhTEY0)
-- [HTCW Podcast #211 - Year review + Web Development in 2025](https://www.youtube.com/watch?v=jEiyrw1HGD8)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
