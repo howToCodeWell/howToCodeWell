@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [5 reasons why you should learn Symfony](https://www.youtube.com/watch?v=KuPGjNgmv5o)
 - [HTCW Podcast #214](https://www.youtube.com/watch?v=yB-9WU1ep7c)
 - [HTCW Podcast #213 Is your software architecture correct](https://www.youtube.com/watch?v=1bcdUVI2fyY)
 - [Learn how to use Laravel middleware](https://www.youtube.com/watch?v=wiLx2vcQQyg)
 - [How To Code Well year in review](https://www.youtube.com/watch?v=1w2wTPf3iF0)
-- [HTCW Podcast #212 - Symfony killer features](https://www.youtube.com/watch?v=viLmDRCq5nQ)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
