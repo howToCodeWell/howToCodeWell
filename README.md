@@ -9,7 +9,7 @@ New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
 - [How to alter the request from Laravel middleware](https://www.youtube.com/watch?v=CCqGl-5ph_Q)
 - [5 reasons why you should learn Symfony](https://www.youtube.com/watch?v=KuPGjNgmv5o)
-- [HTCW Podcast #214](https://www.youtube.com/watch?v=yB-9WU1ep7c)
+- [HTCW Podcast #214 - Strategic software architecture](https://www.youtube.com/watch?v=yB-9WU1ep7c)
 - [HTCW Podcast #213 Is your software architecture correct](https://www.youtube.com/watch?v=1bcdUVI2fyY)
 - [Learn how to use Laravel middleware](https://www.youtube.com/watch?v=wiLx2vcQQyg)
 <!-- YOUTUBE-HTCW:END -->
