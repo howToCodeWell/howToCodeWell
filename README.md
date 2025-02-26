@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [Your software architecture is wrong!](https://www.youtube.com/watch?v=7Rr9wZvBKFY)
 - [HTCW Podcast #217 - Laravel 12 is here](https://www.youtube.com/watch?v=H4ukdjKzK8c)
 - [How to change Laravel route parameters in middleware](https://www.youtube.com/watch?v=QyLoeIPErEw)
 - [Symfony year in review 2024](https://www.youtube.com/watch?v=1ysXNU59bPM)
 - [Web Dev explainer - What is a HTTP request](https://www.youtube.com/watch?v=N3fQm44Wuuo)
-- [How to use Laravel middleware aliases](https://www.youtube.com/watch?v=WidQnYZvWG8)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
