@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [What is Software Architecture](https://www.youtube.com/watch?v=hpmpLWNe9Bc)
 - [Laravel 12 - What is the best Templating engine? #laravel](https://www.youtube.com/watch?v=e8RPpCWiG9Q)
 - [How to use Laravel middleware groups](https://www.youtube.com/watch?v=G_cA8bLRP70)
 - [Your software architecture is wrong!](https://www.youtube.com/watch?v=7Rr9wZvBKFY)
 - [HTCW Podcast #217 - Laravel 12 is here](https://www.youtube.com/watch?v=H4ukdjKzK8c)
-- [How to change Laravel route parameters in middleware](https://www.youtube.com/watch?v=QyLoeIPErEw)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
