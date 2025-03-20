@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [Symfony tutorial: How to create parameterised routes](https://www.youtube.com/watch?v=P8ttzMfKF74)
 - [HTCW Podcast #218 - How to make your PHPUnit tests smarter](https://www.youtube.com/watch?v=ya8GgaDfQi0)
 - [How to create Symfony routes](https://www.youtube.com/watch?v=fv7XlB1e_kk)
 - [Want to learn OOP ? - Don&#39;t make this mistake!](https://www.youtube.com/watch?v=46-JaX7cG4o)
 - [How to host multiple Docker sites with a proxy](https://www.youtube.com/watch?v=sChs2C7Fq2U)
-- [What is Software Architecture](https://www.youtube.com/watch?v=hpmpLWNe9Bc)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
