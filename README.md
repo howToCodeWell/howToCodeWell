@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [Symfony routes tutorial: Optional parameters](https://www.youtube.com/watch?v=LVOCul4ASIU)
 - [Symfony routes tutorial how to use regex in requirements](https://www.youtube.com/watch?v=zzTmuHCPiw8)
 - [HTCW Podcast #219 - Only test the code you control](https://www.youtube.com/watch?v=clgjk0c_D5o)
 - [Symfony tutorial: How to create parameterised routes](https://www.youtube.com/watch?v=P8ttzMfKF74)
 - [HTCW Podcast #218 - How to make your PHPUnit tests smarter](https://www.youtube.com/watch?v=ya8GgaDfQi0)
-- [How to create Symfony routes](https://www.youtube.com/watch?v=fv7XlB1e_kk)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
