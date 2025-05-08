@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [Symfony tutorial - How to alter route priority order](https://www.youtube.com/watch?v=dMmlMpuM_mY)
 - [Symfony routes tutorial - How to debug routes](https://www.youtube.com/watch?v=ZF2wSvtW5qs)
 - [Symfony tutorial: How to group routes at the controller level](https://www.youtube.com/watch?v=QNwLlasszBI)
 - [Symfony routes tutorial: How to set HTTP methods](https://www.youtube.com/watch?v=lTfaUDFYUoc)
 - [Symfony routes tutorial: It&#39;s all in the name](https://www.youtube.com/watch?v=_DPXurlx4og)
-- [Symfony routes tutorial: Optional parameters](https://www.youtube.com/watch?v=LVOCul4ASIU)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
