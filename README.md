@@ -8,7 +8,7 @@
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
 - [Symfony tutorial: Enum route requirements](https://www.youtube.com/watch?v=jW6yNCUZrTE)
-- [Is this the downfall of vibe coding?](https://www.youtube.com/shorts/y05z7lOXJGs)
+- [Is this the downfall of vibe coding?](https://www.youtube.com/watch?v=y05z7lOXJGs)
 - [Symfony tutorial - How to alter route priority order](https://www.youtube.com/watch?v=dMmlMpuM_mY)
 - [Symfony routes tutorial - How to debug routes](https://www.youtube.com/watch?v=ZF2wSvtW5qs)
 - [Symfony tutorial: How to group routes at the controller level](https://www.youtube.com/watch?v=QNwLlasszBI)
