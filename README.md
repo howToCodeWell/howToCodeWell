@@ -7,7 +7,7 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
-- [First steps for upgrading Laravel or React #coding #programming #javascript #php](https://www.youtube.com/watch?v=mOCLde1u98c)
+- [The first step to upgrading Laravel or React #softwaredevelopment #php #javascript](https://www.youtube.com/watch?v=4ba7YJ7ze-Y)
 - [Backend or Frontend - Who takes ownership of API payloads? #programming #coding](https://www.youtube.com/watch?v=UZFYjvahVAc)
 - [Symfony tutorial: Enum route requirements](https://www.youtube.com/watch?v=jW6yNCUZrTE)
 - [Is this the downfall of vibe coding?](https://www.youtube.com/shorts/y05z7lOXJGs)
