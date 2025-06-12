@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [Why are end to end tests important in software development. #coding](https://www.youtube.com/watch?v=iSye5SnoZe4)
 - [The first step to upgrading Laravel or React #softwaredevelopment #php #javascript](https://www.youtube.com/watch?v=4ba7YJ7ze-Y)
 - [Backend or Frontend - Who takes ownership of API payloads? #programming #coding](https://www.youtube.com/watch?v=UZFYjvahVAc)
 - [Symfony tutorial: Enum route requirements](https://www.youtube.com/watch?v=jW6yNCUZrTE)
 - [Is this the downfall of vibe coding?](https://www.youtube.com/shorts/y05z7lOXJGs)
-- [Symfony tutorial - How to alter route priority order](https://www.youtube.com/watch?v=dMmlMpuM_mY)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
