@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [De-risking a software upgrade is not a waste of money. #softwaredevelopment](https://www.youtube.com/shorts/oYTXv85W-X4)
 - [Advice for upgrading software #coding #softwaredevelopment #laravel](https://www.youtube.com/watch?v=EWurHuMubtU)
 - [GraphQL rant #softwaredevelopment #webdevelopment #coding](https://www.youtube.com/shorts/pbrssZdPMD8)
 - [Why are end to end tests important in software development. #coding](https://www.youtube.com/watch?v=iSye5SnoZe4)
 - [The first step to upgrading Laravel or React #softwaredevelopment #php #javascript](https://www.youtube.com/watch?v=4ba7YJ7ze-Y)
-- [Backend or Frontend - Who takes ownership of API payloads? #programming #coding](https://www.youtube.com/watch?v=UZFYjvahVAc)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
