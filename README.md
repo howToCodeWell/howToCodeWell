@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [When the error messages don’t make any sense. #coding](https://www.youtube.com/shorts/6TIg6AG8oj8)
 - [This should not be in PHP. #coding](https://www.youtube.com/shorts/GpIYU0k9hEQ)
 - [De-risking a software upgrade is not a waste of money. #softwaredevelopment](https://www.youtube.com/shorts/oYTXv85W-X4)
 - [Advice for upgrading software #coding #softwaredevelopment #laravel](https://www.youtube.com/shorts/EWurHuMubtU)
 - [GraphQL rant #softwaredevelopment #webdevelopment #coding](https://www.youtube.com/shorts/pbrssZdPMD8)
-- [Why are end to end tests important in software development. #coding](https://www.youtube.com/shorts/iSye5SnoZe4)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
