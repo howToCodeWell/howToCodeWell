@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [Should JavaScript be on the Backend](https://www.youtube.com/shorts/uhv6bkmmetk)
 - [Would Facebook be written in another programming language today? #coding #softwareengineer](https://www.youtube.com/shorts/2QDPArARbe4)
 - [PHP is just enough #programming](https://www.youtube.com/shorts/8xmu3yiHbDY)
 - [When the error messages don’t make any sense. #coding](https://www.youtube.com/shorts/6TIg6AG8oj8)
 - [This should not be in PHP. #coding](https://www.youtube.com/shorts/GpIYU0k9hEQ)
-- [De-risking a software upgrade is not a waste of money. #softwaredevelopment](https://www.youtube.com/shorts/oYTXv85W-X4)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
