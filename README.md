@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [PHP 8: Constructor property promotion](https://www.youtube.com/watch?v=HPmWxZv-jmE)
 - [Should you be a full stack developer #coding #fullstack #php #javascript](https://www.youtube.com/shorts/uEAHTd1bKDM)
 - [Personal coding projects and perfection](https://www.youtube.com/shorts/m3qyViec5ZE)
 - [Why I don’t use JavaScript on the backend part 2 #coding #fullstackdev](https://www.youtube.com/shorts/5usoOnkTbe0)
 - [Why I don’t use JavaScript on the backend part 1 #fullstackdev](https://www.youtube.com/shorts/1iTEyw6lj7w)
-- [Should JavaScript be on the Backend](https://www.youtube.com/shorts/uhv6bkmmetk)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
