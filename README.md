@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [Full stack development and Devops #softwaredevelopment](https://www.youtube.com/shorts/-EgSSzQrMLU)
 - [Is Composer enough for PHP #coding #webdevelopment](https://www.youtube.com/shorts/OH4fKPeNgbk)
 - [How do I use AI as a contractor #ai #softwaredevelopment](https://www.youtube.com/shorts/9fHj6XOAFsM)
 - [PHP 8: Constructor property promotion](https://www.youtube.com/watch?v=HPmWxZv-jmE)
 - [Should you be a full stack developer #coding #fullstack #php #javascript](https://www.youtube.com/shorts/uEAHTd1bKDM)
-- [Personal coding projects and perfection](https://www.youtube.com/shorts/m3qyViec5ZE)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
