@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [Just because you can build software doesn’t mean that you should #ai #coding](https://www.youtube.com/shorts/kq_xs_WbGZA)
 - [Tips for getting software development jobs #coding #webdevelopment](https://www.youtube.com/shorts/qmoERzLNA48)
 - [Full stack development and Devops #softwaredevelopment](https://www.youtube.com/shorts/-EgSSzQrMLU)
 - [Is Composer enough for PHP #coding #webdevelopment](https://www.youtube.com/shorts/OH4fKPeNgbk)
 - [How do I use AI as a contractor #ai #softwaredevelopment](https://www.youtube.com/shorts/9fHj6XOAFsM)
-- [PHP 8: Constructor property promotion](https://www.youtube.com/watch?v=HPmWxZv-jmE)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
