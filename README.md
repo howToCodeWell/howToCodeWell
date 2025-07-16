@@ -24,11 +24,11 @@ Live coding on [Twitch](https://howtocodewell.net/live) every:
 Here are the latest vods
 
 <!-- YOUTUBE-HTCW-LIVE:START -->
+- [PHP 8 new features](https://www.youtube.com/watch?v=Oxb36_G97CU)
 - [Working on course notes for howtocodewell.net](https://www.youtube.com/watch?v=_B8ZnOHLR8U)
 - [Code Quiz \\ Unit tests and PHP fixes](https://www.youtube.com/watch?v=jV-uSKuHqVk)
 - [Code Quiz \\ Markdown to MYSQL](https://www.youtube.com/watch?v=XJkXfZLEPnI)
 - [Creating Instagram HTML Developer tips](https://www.youtube.com/watch?v=fL9m1L5bubg)
-- [Open Source \\ Creating Doctrine Fixtures](https://www.youtube.com/watch?v=4UZr-5u7zNQ)
 <!-- YOUTUBE-HTCW-LIVE:END -->
 
 👉 [more vods...](https://youtube.com/howtocodewelllive)
