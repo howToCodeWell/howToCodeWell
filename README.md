@@ -24,11 +24,11 @@ Live coding on [Twitch](https://howtocodewell.net/live) every:
 Here are the latest vods
 
 <!-- YOUTUBE-HTCW-LIVE:START -->
+- [Dev Talk - How AI will impact Junior Developer careers](https://www.youtube.com/watch?v=XqYfM4SErbo)
 - [Live - PHP 8 tutorials](https://www.youtube.com/watch?v=Zb96D-jcms4)
 - [PHP 8 new features](https://www.youtube.com/watch?v=Oxb36_G97CU)
 - [Working on course notes for howtocodewell.net](https://www.youtube.com/watch?v=_B8ZnOHLR8U)
 - [Code Quiz \\ Unit tests and PHP fixes](https://www.youtube.com/watch?v=jV-uSKuHqVk)
-- [Code Quiz \\ Markdown to MYSQL](https://www.youtube.com/watch?v=XJkXfZLEPnI)
 <!-- YOUTUBE-HTCW-LIVE:END -->
 
 👉 [more vods...](https://youtube.com/howtocodewelllive)
