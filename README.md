@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [Improve your Web Development skills with this.  #juniordeveloper #webdeveloper #careeradvice](https://www.youtube.com/shorts/-jMouE_1Blc)
 - [Are you a programmer if you do this?](https://www.youtube.com/shorts/CerxIkeoltI)
 - [AI code needs to be clean code #coding](https://www.youtube.com/shorts/CzETvc4Gqz4)
 - [Just because you can build software doesn’t mean that you should #ai #coding](https://www.youtube.com/shorts/kq_xs_WbGZA)
 - [Tips for getting software development jobs #coding #webdevelopment](https://www.youtube.com/shorts/qmoERzLNA48)
-- [Full stack development and Devops #softwaredevelopment](https://www.youtube.com/shorts/-EgSSzQrMLU)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
