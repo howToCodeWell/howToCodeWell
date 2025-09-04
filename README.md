@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [01 - How to write PHP code](https://www.youtube.com/shorts/s6Gr2kjXgwE)
 - [Did you solve the code challenge?](https://www.youtube.com/shorts/fnLM1ETJZLo)
 - [Symfony has a new form helper](https://www.youtube.com/watch?v=xkfdVbT-Vms)
 - [Improve your Web Development skills with this.  #juniordeveloper #webdeveloper #careeradvice](https://www.youtube.com/shorts/-jMouE_1Blc)
 - [Are you a programmer if you do this?](https://www.youtube.com/shorts/CerxIkeoltI)
-- [AI code needs to be clean code #coding](https://www.youtube.com/shorts/CzETvc4Gqz4)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
