@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [Symfony multiple env checks in routes](https://www.youtube.com/watch?v=_p6HoEKoYoE)
 - [02 Code Challenge | PHP flatten array](https://www.youtube.com/shorts/i56uwidczTY)
 - [02 - How to code PHP variables](https://www.youtube.com/shorts/rNdRG-h_Aek)
 - [01 - How to write PHP code](https://www.youtube.com/shorts/s6Gr2kjXgwE)
 - [Did you solve the code challenge?](https://www.youtube.com/shorts/fnLM1ETJZLo)
-- [Symfony has a new form helper](https://www.youtube.com/watch?v=xkfdVbT-Vms)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
