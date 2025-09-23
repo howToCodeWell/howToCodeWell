@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [Symfony has a new string method](https://www.youtube.com/watch?v=97AenDBwL5Q)
 - [Code Challenge 04 | Only 10x developers can do this](https://www.youtube.com/shorts/yXNXThQEz5k)
 - [Can you solve this?](https://www.youtube.com/shorts/KNIfsLU8mCs)
 - [03 Code Challenge | Can you do this in PHP](https://www.youtube.com/shorts/vUiGEjf80JE)
 - [Learn PHP 05 - How to code else if statements in PHP](https://www.youtube.com/shorts/sv9v8UAqj8s)
-- [Learn PHP 04 - How to cast PHP variables](https://www.youtube.com/shorts/3hfP9FFZ2m4)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
