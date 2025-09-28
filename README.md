@@ -7,11 +7,11 @@
 ### 🎙️Latest YouTube Videos
 New videos every week.  Here are the latest:
 <!-- YOUTUBE-HTCW:START -->
+- [Learn PHP 08 - How to code a PHP nested array](https://www.youtube.com/shorts/9XtFWCxmprM)
 - [Creating a PHP Slugify function  #phpcode #coding #webdeveloper](https://www.youtube.com/shorts/j1KIhmyJkHA)
 - [Learn PHP 07 - How to code a PHP associative array](https://www.youtube.com/shorts/mdL1Fyt7-ow)
 - [Learn PHP 06 - How to create a PHP array](https://www.youtube.com/shorts/Nz0qiShplco)
 - [New hire DON&#39;T make this mistake! #coding #webdeveloper #programming #career](https://www.youtube.com/shorts/YOiiIvygP5A)
-- [Symfony has a new string method](https://www.youtube.com/watch?v=97AenDBwL5Q)
 <!-- YOUTUBE-HTCW:END -->
 
 👉 [more videos...](https://youtube.com/howtocodewell)
